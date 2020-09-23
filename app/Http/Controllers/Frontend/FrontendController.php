@@ -28,11 +28,12 @@ class FrontendController extends Controller {
         $hot_products_slide = $this->productRepo->readHlProduct($limit = 3);
         $product_hl = $this->productRepo->readHlProduct($limit = 10);
         $product_cs = $this->productRepo->readCsProduct($limit = 10);
-        $news_arr = $this->newsRepo->readAllNews($limit = 3);
+        $news_big = $this->newsRepo->getAllNews($limit = 1);
+        $news_arr = $this->newsRepo->getAllNews($limit = 6);
         if (config('global.device') != 'pc') {
-            return view('mobile/home/index', compact('total','hot_products_slide','product_new', 'product_hl', 'product_cs', 'news_arr'));
+            return view('mobile/home/index', compact('total','hot_products_slide','product_new', 'product_hl', 'product_cs', 'news_big', 'news_arr'));
         } else {
-            return view('frontend/home/index', compact('total','hot_products_slide','product_new', 'product_hl', 'product_cs', 'news_arr'));
+            return view('frontend/home/index', compact('total','hot_products_slide','product_new', 'product_hl', 'product_cs', 'news_big', 'news_arr'));
         }
     }
     
