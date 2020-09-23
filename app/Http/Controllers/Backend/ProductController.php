@@ -133,6 +133,7 @@ class ProductController extends Controller {
         $product->categories()->sync($input['category_id']);
         //Thêm thuộc tính sản phẩm
         $attributes = $this->getProductAttributes($input);
+
         $product->attributes()->sync($attributes);
         if ($res) {
             return redirect()->route('admin.product.index')->with('success', 'Cập nhật thành công');
@@ -157,6 +158,7 @@ class ProductController extends Controller {
 
     public function getProductAttributes($input) {
         $attributes = array();
+
         foreach ($input['attribute'] as $key => $val) {
             $attributes[$key] = ['value' => $val];
         }

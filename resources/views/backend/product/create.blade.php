@@ -79,6 +79,7 @@
                                             <span class="help-block">Chỉ cho phép các file ảnh có đuôi <code>jpg</code>, <code>gif</code> và <code>png</code>. File có dung lượng tối đa 20M.</span>
                                         </div>
                                     </div>
+
                                 </fieldset>
                             </div>
                             <div class="col-md-4">
@@ -156,7 +157,9 @@
                     <div class="tab-pane fade" id="left-icon-tab2">
                         <div class="row">
                             <div class="col-md-10 col-md-offset-1">
+
                                 @foreach ($attributes as $key => $val)
+
                                 <div class="form-group row">
                                     <label class="col-md-3 col-form-label text-right">{{$val->title}}</label>
                                     <div class="col-md-9">

@@ -27,6 +27,7 @@ class ProductRepository extends AbstractRepository {
             'alias' => 'required',
             'category_id' => 'required',
             'images' => 'required',
+
             'keywords' => 'required'
         ];
     }
@@ -37,6 +38,7 @@ class ProductRepository extends AbstractRepository {
             'alias' => 'required',
             'category_id' => 'required',
             'images' => 'required',
+
             'keywords' => 'required'
         ];
     }
@@ -109,7 +111,7 @@ class ProductRepository extends AbstractRepository {
     }
 
     public function getDetailProduct($id) {
-        
+
         return $this->model->where('id', $id)->get();
 
     }
@@ -163,7 +165,7 @@ class ProductRepository extends AbstractRepository {
 
     public function getFilterProduct($genre){
         $product_ids = \DB::table('product_category')->where('category_id', $genre)->pluck('product_id');
-        
+
        return $this->model->where('status', 1)->whereIn('id', $product_ids)->where('post_schedule' ,'<=', Carbon::now('Asia/Ho_Chi_Minh'))->orderBy('post_schedule', 'desc')->paginate(10);
     }
 
