@@ -50,7 +50,7 @@ class NewsRepository extends AbstractRepository {
         return $query->where('news.status', 1)->orderBy('news.created_at', 'desc')->paginate($limit);
     }
 
-    public function readAllNews($limit = 3) {
+    public function getAllNews($limit = 10) {
         return $this->model->where('status', 1)->where('post_schedule' ,'<=', Carbon::now('Asia/Ho_Chi_Minh'))->orderBy('post_schedule', 'desc')->take($limit)->get();
     }
 
