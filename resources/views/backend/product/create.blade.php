@@ -153,7 +153,10 @@
                             </div>
                         </div>
                     </div>
-
+                    @if(Session('success'))
+                        <p>Tạo sản phẩm thành công</p>
+                    @elseif(Session('error'))
+                    @endif
                     <div class="tab-pane fade" id="left-icon-tab2">
                         <div class="row">
                             <div class="col-md-10 col-md-offset-1">
