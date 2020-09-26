@@ -53,12 +53,12 @@
                                 <div class="swiper-wrapper">
                                     <!-- Slides -->
                                     <div class="swiper-slide">
-                                        <a href="janhome-ha-noi-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Hà Nội">
+                                        <a href="javascript:void(0)" title="Hà Nội">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Hà Nội
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-bac-giang-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Bắc Giang">
+                                        <a href="javascript:void(0)" title="Bắc Giang">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Bắc Giang
                                         </a>
                                     </div>
@@ -68,7 +68,7 @@
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-cao-bang.html" title="Cao Bằng">
+                                        <a href="javascript:void(0)" title="Cao Bằng">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Cao Bằng
                                         </a>
                                     </div>
@@ -78,12 +78,12 @@
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-dak-lak.html" title="Đắk Lắk">
+                                        <a href="javascript:void(0)" title="Đắk Lắk">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Đắk Lắk
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-dien-bien-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Điện Biên">
+                                        <a href="javascript:void(0)" title="Điện Biên">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Điện Biên
                                         </a>
                                     </div>
@@ -93,37 +93,37 @@
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-ha-tinh-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Hà Tĩnh">
+                                        <a href="javascript:void(0)" title="Hà Tĩnh">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Hà Tĩnh
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-hai-duong.html" title="Hải Dương">
+                                        <a href="javascript:void(0)" title="Hải Dương">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Hải Dương
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-hai-phong-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Hải Phòng">
+                                        <a href="javascript:void(0)" title="Hải Phòng">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Hải Phòng
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-ho-chi-minh.html" title="Hồ Chí Minh">
+                                        <a href="javascript:void(0)" title="Hồ Chí Minh">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Hồ Chí Minh
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-hoa-binh-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Hòa Bình">
+                                        <a href="javascript:void(0)" title="Hòa Bình">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Hòa Bình
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-hung-yen-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Hưng Yên">
+                                        <a href="javascript:void(0)" title="Hưng Yên">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Hưng Yên
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-nghe-an-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Nghệ An">
+                                        <a href="javascript:void(0)" title="Nghệ An">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Nghệ An
                                         </a>
                                     </div>
@@ -133,47 +133,47 @@
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-phu-tho.html" title="Phú Thọ">
+                                        <a href="javascript:void(0)" title="Phú Thọ">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Phú Thọ
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-quang-binh.html" title="Quảng Bình">
+                                        <a href="javascript:void(0)" title="Quảng Bình">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Quảng Bình
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-tp-ha-long-tai-quang-ninh.html" title="Quảng Ninh">
+                                        <a href="javascript:void(0)" title="Quảng Ninh">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Quảng Ninh
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-son-la-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Sơn La">
+                                        <a href="javascript:void(0)" title="Sơn La">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Sơn La
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-thai-binh-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Thái Bình">
+                                        <a href="javascript:void(0)" title="Thái Bình">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Thái Bình
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-thai-nguyen-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Thái Nguyên">
+                                        <a href="javascript:void(0)" title="Thái Nguyên">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Thái Nguyên
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-thanh-hoa-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Thanh hoá">
+                                        <a href="javascript:void(0)" title="Thanh hoá">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Thanh hoá
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-tuyen-quang-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Tuyên Quang">
+                                        <a href="javascript:void(0)" title="Tuyên Quang">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Tuyên Quang
                                         </a>
                                     </div>
                                     <div class="swiper-slide">
-                                        <a href="janhome-vinh-phuc-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Vĩnh Phúc">
+                                        <a href="javascript:void(0)" title="Vĩnh Phúc">
                                             <i class="fas fa-map-marker-alt mr-2"></i>Vĩnh Phúc
                                         </a>
                                     </div>
@@ -397,7 +397,7 @@
                                                     </a>
                                                 </div>
                                                 <div>
-                                                    <a href="chi-nhanh.html" class="btn-sm btn-link">
+                                                    <a href="javascript:void(0)" class="btn-sm btn-link">
                                                         <img src="images/location-icn.svg" class="img-fluid icon mr-2" />Hệ thống
                                                         <span class="px-1 font-weight-bold" style="color:#007DFF;">38</span>
                                                         Showroom
@@ -409,8 +409,8 @@
                                                         Catalogue
                                                     </a>
                                                     <div class="dropdown-menu cust-downl-cate" aria-labelledby="dropdownMenuButton">
-                                                        <a class="dropdown-item" href="tai-catalogue.html">Tải Catalogue</a>
-                                                        <a class="dropdown-item" href="thu-vien-3d-kien-truc-su.html">Thư viện 3D kiến trúc sư</a>
+                                                        <a class="dropdown-item" href="javascript:void(0)">Tải Catalogue</a>
+                                                        <a class="dropdown-item" href="javascript:void(0)">Thư viện 3D kiến trúc sư</a>
                                                     </div>
                                                 </div>
                                                 <div>
@@ -421,7 +421,7 @@
                                                     </a>
                                                 </div>
                                                 <div>
-                                                    <a href="du-toan-cong-trinh.html" class="btn-sm btn-link">
+                                                    <a href="javascript:void(0)" class="btn-sm btn-link">
                                                         <img src="images/spvx-ic5e209.svg?v=1.0.0" class="img-fluid icon mr-2" />Dự toán công
                                                         trình
                                                     </a>
@@ -758,28 +758,28 @@
                                         <div class="swiper-wrapper">
                                             <div class="swiper-slide">
                                                 <div class="image image-fixed">
-                                                    <a href="san-go-woodman.html">
+                                                    <a href="javascript:void(0)">
                                                         <img src="../cms.janhome.vn/uploads/2020/09/03/he-thong-ban-le-vat-lieu-hoan-thien-tai-kho-janhome-khuyen-mai-thang-9-2020-san-go-woodmane209.jpg?v=1.0.0" class="d-block w-100" alt="janhome.vn">
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="image image-fixed">
-                                                    <a href="tam-op-nano.html">
+                                                    <a href="javascript:void(0)">
                                                         <img data-src="https://cms.janhome.vn//uploads/2020/09/03/he-thong-ban-le-vat-lieu-hoan-thien-tai-kho-janhome-khuyen-mai-thang-9-2020-tam-op-nano-timberman.jpg?v=1.0.0" class="d-block w-100 swiper-lazy" alt="janhome.vn">
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="image image-fixed">
-                                                    <a href="op-tran-bang-tam-pvc-timberman.html">
+                                                    <a href="javascript:void(0)">
                                                         <img data-src="https://cms.janhome.vn//uploads/2020/09/03/he-thong-ban-le-vat-lieu-hoan-thien-tai-kho-janhome-khuyen-mai-thang-9-2020-go-nhua-timberman-tbm01p.jpg?v=1.0.0" class="d-block w-100 swiper-lazy" alt="janhome.vn">
                                                     </a>
                                                 </div>
                                             </div>
                                             <div class="swiper-slide">
                                                 <div class="image image-fixed">
-                                                    <a href="san-go-wineo.html">
+                                                    <a href="javascript:void(0)">
                                                         <img data-src="https://cms.janhome.vn//uploads/2020/07/28/he-thong-ban-le-hoan-thien-tai-kho-janhome-khuyen-mai-san-go-duc.png?v=1.0.0" class="d-block w-100 swiper-lazy" alt="janhome.vn">
                                                     </a>
                                                 </div>
@@ -825,26 +825,26 @@
                                 <ul class="list-group list-news-right mb-2 mt-3 mt-md-0">
                                     <li class="list-group-item active">Trải nghiệM cùng JANHOME</li>
                                     <li class="list-group-item">
-                                        <a href="khuyen-mai-thang-8-nhieu-bat-ngo-tai-janhome-he-thong-ban-le-vat-lieu-hoan-thien-tai-kho.html" title="Khuyến mãi tháng 8">
+                                        <a href="javascript:void(0)" title="Khuyến mãi tháng 8">
                                             Khuyến mãi tháng 8
                                         </a>
                                     </li>
                                     <li class="list-group-item">
-                                        <a href="phong-khach.html" title="Trải nghiệm không gian phòng khách cùng Janhome">
+                                        <a href="javascript:void(0)" title="Trải nghiệm không gian phòng khách cùng Janhome">
                                             Trải nghiệm không gian phòng khách cùng Janhome
                                         </a>
                                     </li>
                                     <li class="list-group-item">
-                                        <a href="phong-ngu.html" title=" Tư vấn chuyên sâu không gian phòng ngủ từ Janhome">
+                                        <a href="javascript:void(0)" title=" Tư vấn chuyên sâu không gian phòng ngủ từ Janhome">
                                             Tư vấn chuyên sâu không gian phòng ngủ từ Janhome
                                         </a>
                                     </li>
                                 </ul>
                                 <!--Thêm class d-none d-md-block-->
-                                <a href="san-nhua-florton-spc.html" title="" class="d-none d-md-block">
+                                <a href="javascript:void(0)" title="" class="d-none d-md-block">
                                     <img src="../cms.janhome.vn/uploads/2020/07/22/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-san-nhua-hem-khoa-florton-spce209.jpg?v=1.0.0" class="img-fluid mb-2 w-100" />
                                 </a>
-                                <a href="vong-quay-may-man.html" title="" class="d-none d-md-block">
+                                <a href="javascript:void(0)" title="" class="d-none d-md-block">
                                     <img src="../cms.janhome.vn/uploads/2020/07/24/bannere209.png?v=1.0.0" class="img-fluid mb-2 w-100" />
                                 </a>
                                 <!--Thêm class d-none d-md-block-->
@@ -853,7 +853,7 @@
                         <div class="row menu-ngang-2 justify-content-around flex-wrap">
                             <div class="col">
                                 <div class="item">
-                                    <a href="flash-sale.html">
+                                    <a href="javascript:void(0)">
                                         <img src="../cms.janhome.vn/uploads/2020/04/28/giovanggiasoce209.png?v=1.0.0" class="img-fluid mr-2">
                                         Giờ vàng giá sốc
                                     </a>
@@ -861,7 +861,7 @@
                             </div>
                             <div class="col">
                                 <div class="item">
-                                    <a href="san-go-thanh-ly.html">
+                                    <a href="javascript:void(0)">
                                         <img src="../cms.janhome.vn/uploads/2020/04/28/coupon%20(1)e209.png?v=1.0.0" class="img-fluid mr-2">
                                         Sàn gỗ thanh lý
                                     </a>
@@ -869,7 +869,7 @@
                             </div>
                             <div class="col">
                                 <div class="item">
-                                    <a href="san-go-chau-au.html">
+                                    <a href="javascript:void(0)">
                                         <img src="../cms.janhome.vn/uploads/2020/04/28/shopping-bag%20(2)e209.png?v=1.0.0" class="img-fluid mr-2">
                                         Hàng Châu Âu
                                     </a>
@@ -877,7 +877,7 @@
                             </div>
                             <div class="col">
                                 <div class="item">
-                                    <a href="san-pham-ban-chay-2020.html">
+                                    <a href="javascript:void(0)">
                                         <img src="../cms.janhome.vn/uploads/2020/04/28/mobile-storee209.png?v=1.0.0" class="img-fluid mr-2">
                                         Bán chạy nhất
                                     </a>
@@ -885,7 +885,7 @@
                             </div>
                             <div class="col">
                                 <div class="item">
-                                    <a href="vong-quay-may-man.html">
+                                    <a href="javascript:void(0)">
                                         <img src="../cms.janhome.vn/uploads/2020/04/24/gifte209.png?v=1.0.0" class="img-fluid mr-2">
                                         Vòng quay may mắn
                                     </a>
@@ -898,7 +898,7 @@
                     <section class="container">
                         <div class="row">
                             <div class="col-xl-8 col-md-8 col-sm-12 col-12">
-                                <a href="san-go-viet-nam-sieu-chiu-nuoc.html" title="">
+                                <a href="javascript:void(0)" title="">
                                     <img src="../cms.janhome.vn/uploads/2020/08/10/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-san-go-sieu-chiu-nuoc-janhome-ecofle209.jpg?v=1.0.0" class="lazy w-100 mb-3 mb-md-0" />
                                 </a>
                             </div>
@@ -990,7 +990,7 @@
                                         <!-- Additional required wrapper -->
                                         <div class="swiper-wrapper">
                                             <!-- Slides -->
-                                        @foreach ($product_hl as $key => $product)
+                                            @foreach ($product_hl as $key => $product)
                                             <div class="swiper-slide">
                                                 <div class="item-product" data-id="20182" data-properties="">
                                                     <div class="tag-1">
@@ -1003,7 +1003,7 @@
                                                     </div>
                                                     <div class="">
                                                         <h5 class="title">
-                                                        <a href="san-go-woodman-o127.html" title="Sàn gỗ WOODMAN O127">
+                                                        <a href="{!! route('product.detail', ['alias' => $product->alias, 'id' => $product->id]) !!}" title="Sàn gỗ WOODMAN O127">
                                                             {!!$product->title!!}
                                                         </a>
                                                         </h5>
@@ -1026,8 +1026,8 @@
                                                         </div>
                                                     </div>
                                                 </div>
-                                            </div> 
-                                        @endforeach
+                                            </div>
+                                            @endforeach
                                         </div>
                                         <!-- If we need navigation buttons -->
                                     </div>
@@ -1115,17 +1115,21 @@
                                     <div class="_binding_product">
                                         <div class="set-total" data-total="8" data-id="1486" style="display:none"></div>
                                         <div class="row no-gutters mb-3 mb-md-0">
+                                            @foreach($industry as $key => $product)
+                                            @if($key == 1)
+                                            @break
+                                            @endif
                                             <div class="col-lg-5 col-md-12 col-sm-12 col-12">
                                                 <div class="item-product item-product-large">
                                                     <div class="image">
                                                         <a href="san-go-janmi-o121-12mm.html">
-                                                            <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/06/29/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-banner-san-go-malaysia-janmi.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ JANMI O121 - 12mm" />
+                                                            <img src="{{$product->getImage()}}" style="height: 300px" class="img-fluid lazy" alt="Sàn gỗ JANMI O121 - 12mm" />
                                                         </a>
                                                     </div>
                                                     <div class="py-1">
                                                         <h5 class="title">
                                                         <a href="san-go-janmi-o121-12mm.html" title="Sàn gỗ JANMI O121 - 12mm">
-                                                            Sàn gỗ JANMI O121 - 12mm
+                                                            {!!$product->title!!}
                                                         </a>
                                                         </h5>
                                                         <div class="price-new">
@@ -1145,22 +1149,30 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            @endforeach
                                             <div class="col-lg-7 col-md-12 col-sm-12 col-12">
                                                 <div class="row no-gutters h-100 ">
+                                                    @foreach($industry as $key => $product)
+                                                    @if($key == 0 || $key == 1)
+                                                    @continue
+                                                    @endif
+                                                    @if($key == 5)
+                                                    @break
+                                                    @endif
                                                     <div class="col-md-4 col-sm-4 col-6 ">
                                                         <div class="item-product" data-id="95211" data-properties="">
                                                             <div class="tag-1">
                                                             </div>
                                                             <div class="image">
-                                                                <a href="san-go-florton-fl180805.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/04/san-go-florton-fl180805.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Florton FL180805" /></a>
+                                                                <a href="san-go-florton-fl180805.html"><img src="{{$product->getImage()}}" class="lazy img-fluid" alt="Sàn gỗ Florton FL180805" /></a>
                                                                 <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
+                                                                    <img src="" class="img-fluid tag-2-thumb" />
                                                                 </div>
                                                             </div>
                                                             <div class="">
                                                                 <h5 class="title">
                                                                 <a href="san-go-florton-fl180805.html" title="Sàn gỗ Florton FL180805">
-                                                                    Sàn gỗ Florton FL180805
+                                                                    {!!$product->title!!}
                                                                 </a>
                                                                 </h5>
                                                                 <div class="price-new">
@@ -1180,87 +1192,29 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-4 col-sm-4 col-6 ">
-                                                        <div class="item-product" data-id="55797" data-properties="">
-                                                            <div class="tag-1">
-                                                            </div>
-                                                            <div class="image">
-                                                                <a href="san-go-florton-fl804.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2018/06/san-go-florton-fl804.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Florton FL804" /></a>
-                                                                <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
-                                                                </div>
-                                                            </div>
-                                                            <div class="">
-                                                                <h5 class="title">
-                                                                <a href="san-go-florton-fl804.html" title="Sàn gỗ Florton FL804">
-                                                                    Sàn gỗ Florton FL804
-                                                                </a>
-                                                                </h5>
-                                                                <div class="price-new">
-                                                                    155.000đ đ / m2
-                                                                </div>
-                                                                <div class="size small mb-1">
-                                                                    Kích thước: 8    x    132    x    813 mm
-                                                                </div>
-                                                                <div class="review d-flex">
-                                                                    <div class="color-FFAB1B mr-2">
-                                                                        0,0/5<i class="fas fa-star ml-1"></i>
-                                                                    </div>
-                                                                    <div class="color-828282">
-                                                                        0 đánh giá
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                                                        <div class="item-product" data-id="56639" data-properties="">
-                                                            <div class="tag-1">
-                                                            </div>
-                                                            <div class="image">
-                                                                <a href="san-go-woodman-o118-ban-nho.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2018/06/san-go-woodman-o118-nho-12mm-4.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ WOODMAN O118 12mm bản nhỏ" /></a>
-                                                                <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
-                                                                </div>
-                                                            </div>
-                                                            <div class="">
-                                                                <h5 class="title">
-                                                                <a href="san-go-woodman-o118-ban-nho.html" title="Sàn gỗ WOODMAN O118 12mm bản nhỏ">
-                                                                    Sàn gỗ WOODMAN O118 12mm bản nhỏ
-                                                                </a>
-                                                                </h5>
-                                                                <div class="price-new">
-                                                                    495.000đ đ / m2
-                                                                </div>
-                                                                <div class="size small mb-1">
-                                                                    Kích thước: 12    x    115    x    1283 mm
-                                                                </div>
-                                                                <div class="review d-flex">
-                                                                    <div class="color-FFAB1B mr-2">
-                                                                        0,0/5<i class="fas fa-star ml-1"></i>
-                                                                    </div>
-                                                                    <div class="color-828282">
-                                                                        0 đánh giá
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                    @endforeach
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row no-gutters">
+                                            @foreach($industry as $key => $product)
+                                            @if($key == 0)
+                                            @continue
+                                            @endif
+                                            @if($key == 2)
+                                            @break
+                                            @endif
                                             <div class="col-lg-5 col-md-12 col-sm-12 col-12">
                                                 <div class="item-product item-product-large">
                                                     <div class="image">
                                                         <a href="san-go-wineo-rockngo-la149sysv4.html">
-                                                            <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/31/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-san-go-duc-wineo-aqua-stop-rocngo-la149sysv4.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ WINEO ROCK&#x27;N&#x27;GO LA149SYSV4" />
+                                                            <img src="{{$product->getImage()}}" style=" height: 300px"class="lazy img-fluid" alt="Sàn gỗ WINEO ROCK&#x27;N&#x27;GO LA149SYSV4" />
                                                         </a>
                                                     </div>
                                                     <div class="py-1">
                                                         <h5 class="title">
-                                                        <a href="san-go-wineo-rockngo-la149sysv4.html" title="Sàn gỗ WINEO ROCK&#x27;N&#x27;GO LA149SYSV4">
-                                                            Sàn gỗ WINEO ROCK&#x27;N&#x27;GO LA149SYSV4
+                                                        <a href="san-go-wineo-rockngo-la149sysv4.html">
+                                                            {!!$product->title!!}
                                                         </a>
                                                         </h5>
                                                         <div class="price-new">
@@ -1280,22 +1234,27 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            @endforeach
                                             <div class="col-lg-7 col-md-12 col-sm-12 col-12">
                                                 <div class="row no-gutters h-100 ">
+                                                    @foreach($industry as $key => $product)
+                                                    @if($key < 5)
+                                                    @continue
+                                                    @endif
                                                     <div class="col-md-4 col-sm-4 col-6 ">
                                                         <div class="item-product" data-id="72193" data-properties="">
                                                             <div class="tag-1">
                                                             </div>
                                                             <div class="image">
-                                                                <a href="san-go-cot-xanh-aqua-janhome-jhg1207.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/05/san-go-janhome-sieu-chiu-nuoc-jhg1207.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ JanHome siêu chịu nước - JHG1207" /></a>
+                                                                <a href="san-go-cot-xanh-aqua-janhome-jhg1207.html"><img src="{{$product->getImage()}}" class="lazy img-fluid" alt="Sàn gỗ JanHome siêu chịu nước - JHG1207" /></a>
                                                                 <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
+                                                                    <img src="" class="img-fluid tag-2-thumb" />
                                                                 </div>
                                                             </div>
                                                             <div class="">
                                                                 <h5 class="title">
                                                                 <a href="san-go-cot-xanh-aqua-janhome-jhg1207.html" title="Sàn gỗ JanHome siêu chịu nước - JHG1207">
-                                                                    Sàn gỗ JanHome siêu chịu nước - JHG1207
+                                                                    {!!$product->title!!}
                                                                 </a>
                                                                 </h5>
                                                                 <div class="price-new">
@@ -1315,72 +1274,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-4 col-sm-4 col-6 ">
-                                                        <div class="item-product" data-id="72355" data-properties="">
-                                                            <div class="tag-1">
-                                                            </div>
-                                                            <div class="image">
-                                                                <a href="san-go-janhome-xuong-ca-jhx02.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/05/san-go-janhome-xuong-ca-jhx02.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Janhome xương cá JHX02" /></a>
-                                                                <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
-                                                                </div>
-                                                            </div>
-                                                            <div class="">
-                                                                <h5 class="title">
-                                                                <a href="san-go-janhome-xuong-ca-jhx02.html" title="Sàn gỗ Janhome xương cá JHX02">
-                                                                    Sàn gỗ Janhome xương cá JHX02
-                                                                </a>
-                                                                </h5>
-                                                                <div class="price-new">
-                                                                    450.000đ đ / m2
-                                                                </div>
-                                                                <div class="size small mb-1">
-                                                                    Kích thước: 12    x    94    x    604 mm
-                                                                </div>
-                                                                <div class="review d-flex">
-                                                                    <div class="color-FFAB1B mr-2">
-                                                                        4,5/5<i class="fas fa-star ml-1"></i>
-                                                                    </div>
-                                                                    <div class="color-828282">
-                                                                        2 đánh giá
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                                                        <div class="item-product" data-id="92320" data-properties="">
-                                                            <div class="tag-1">
-                                                            </div>
-                                                            <div class="image">
-                                                                <a href="san-go-wineo-rockngo-la148sysv4.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-wineo-rockngo-la148sysv4.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ WINEO ROCK&#x27;N&#x27;GO LA148SYSV4" /></a>
-                                                                <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
-                                                                </div>
-                                                            </div>
-                                                            <div class="">
-                                                                <h5 class="title">
-                                                                <a href="san-go-wineo-rockngo-la148sysv4.html" title="Sàn gỗ WINEO ROCK&#x27;N&#x27;GO LA148SYSV4">
-                                                                    Sàn gỗ WINEO ROCK&#x27;N&#x27;GO LA148SYSV4
-                                                                </a>
-                                                                </h5>
-                                                                <div class="price-new">
-                                                                    580.000đ đ / m2
-                                                                </div>
-                                                                <div class="size small mb-1">
-                                                                    Kích thước: 9    x    195    x    1288 mm
-                                                                </div>
-                                                                <div class="review d-flex">
-                                                                    <div class="color-FFAB1B mr-2">
-                                                                        0,0/5<i class="fas fa-star ml-1"></i>
-                                                                    </div>
-                                                                    <div class="color-828282">
-                                                                        0 đánh giá
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                    @endforeach
                                                 </div>
                                             </div>
                                         </div>
@@ -1492,11 +1386,15 @@
                                     <div class="_binding_product">
                                         <div class="set-total" data-total="8" data-id="1483" style="display:none"></div>
                                         <div class="row no-gutters mb-3 mb-md-0">
+                                            @foreach($nature as $key => $product)
+                                            @if($key == 1)
+                                            @break
+                                            @endif
                                             <div class="col-lg-5 col-md-12 col-sm-12 col-12">
                                                 <div class="item-product item-product-large">
                                                     <div class="image">
                                                         <a href="san-go-soi-750-x-90mm.html">
-                                                            <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/08/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-banner-san-go-soi.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Sồi 750 x 90mm" />
+                                                            <img src="{{$product->getImage()}}" style="height: 300px" class="img-fluid lazy" alt="Sàn gỗ Sồi 750 x 90mm" />
                                                         </a>
                                                     </div>
                                                     <div class="py-1">
@@ -1522,22 +1420,30 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            @endforeach
                                             <div class="col-lg-7 col-md-12 col-sm-12 col-12">
                                                 <div class="row no-gutters h-100 ">
+                                                    @foreach($nature as $key => $product)
+                                                    @if($key == 0 || $key == 1)
+                                                    @continue
+                                                    @endif
+                                                    @if($key == 5)
+                                                    @break
+                                                    @endif
                                                     <div class="col-md-4 col-sm-4 col-6 ">
                                                         <div class="item-product" data-id="42173" data-properties="">
                                                             <div class="tag-1">
                                                             </div>
                                                             <div class="image">
-                                                                <a href="san-go-oc-cho-600mm.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2018/02/san-go-oc-cho-600mm.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Óc chó 600mm" /></a>
+                                                                <a href="san-go-oc-cho-600mm.html"><img src="{{$product->getImage()}}" class="lazy img-fluid" alt="Sàn gỗ Óc chó 600mm" /></a>
                                                                 <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
+                                                                    <img src="" class="img-fluid tag-2-thumb" />
                                                                 </div>
                                                             </div>
                                                             <div class="">
                                                                 <h5 class="title">
                                                                 <a href="san-go-oc-cho-600mm.html" title="Sàn gỗ Óc chó 600mm">
-                                                                    Sàn gỗ Óc chó 600mm
+                                                                    {!!$product->title!!}
                                                                 </a>
                                                                 </h5>
                                                                 <div class="price-new">
@@ -1557,87 +1463,29 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-4 col-sm-4 col-6 ">
-                                                        <div class="item-product" data-id="28842" data-properties="">
-                                                            <div class="tag-1">
-                                                            </div>
-                                                            <div class="image">
-                                                                <a href="san-go-teak-600-x-90mm.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2017/10/san-go-teak-600-90mm.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Teak 600 x 90mm" /></a>
-                                                                <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
-                                                                </div>
-                                                            </div>
-                                                            <div class="">
-                                                                <h5 class="title">
-                                                                <a href="san-go-teak-600-x-90mm.html" title="Sàn gỗ Teak 600 x 90mm">
-                                                                    Sàn gỗ Teak 600 x 90mm
-                                                                </a>
-                                                                </h5>
-                                                                <div class="price-new">
-                                                                    760.000đ đ / m2
-                                                                </div>
-                                                                <div class="size small mb-1">
-                                                                    Kích thước: 15 x 90 x 600 mm
-                                                                </div>
-                                                                <div class="review d-flex">
-                                                                    <div class="color-FFAB1B mr-2">
-                                                                        0,0/5<i class="fas fa-star ml-1"></i>
-                                                                    </div>
-                                                                    <div class="color-828282">
-                                                                        0 đánh giá
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                                                        <div class="item-product" data-id="8938" data-properties="">
-                                                            <div class="tag-1">
-                                                            </div>
-                                                            <div class="image">
-                                                                <a href="san-go-go-900mm.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2017/08/san-go-go-do-900mm-490-600x600.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Gõ đỏ 900mm" /></a>
-                                                                <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
-                                                                </div>
-                                                            </div>
-                                                            <div class="">
-                                                                <h5 class="title">
-                                                                <a href="san-go-go-900mm.html" title="Sàn gỗ Gõ đỏ 900mm">
-                                                                    Sàn gỗ Gõ đỏ 900mm
-                                                                </a>
-                                                                </h5>
-                                                                <div class="price-new">
-                                                                    1.200.000đ đ / m2
-                                                                </div>
-                                                                <div class="size small mb-1">
-                                                                    Kích thước: 15 x 90 x 900 mm
-                                                                </div>
-                                                                <div class="review d-flex">
-                                                                    <div class="color-FFAB1B mr-2">
-                                                                        5,0/5<i class="fas fa-star ml-1"></i>
-                                                                    </div>
-                                                                    <div class="color-828282">
-                                                                        1 đánh giá
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                    @endforeach
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row no-gutters">
+                                            @foreach($industry as $key => $product)
+                                            @if($key == 0)
+                                            @continue
+                                            @endif
+                                            @if($key == 2)
+                                            @break
+                                            @endif
                                             <div class="col-lg-5 col-md-12 col-sm-12 col-12">
                                                 <div class="item-product item-product-large">
                                                     <div class="image">
                                                         <a href="san-go-giang-huong-fjl.html">
-                                                            <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/07/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-banner-san-go-giang-huong.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Giáng Hương FJL" />
+                                                            <img src="{{$product->getImage()}}" style="height: 300px" class="lazy img-fluid" alt="Sàn gỗ Giáng Hương FJL" />
                                                         </a>
                                                     </div>
                                                     <div class="py-1">
                                                         <h5 class="title">
                                                         <a href="san-go-giang-huong-fjl.html" title="Sàn gỗ Giáng Hương FJL">
-                                                            Sàn gỗ Giáng Hương FJL
+                                                            {!!$product->title!!}
                                                         </a>
                                                         </h5>
                                                         <div class="price-new">
@@ -1657,14 +1505,19 @@
                                                     </div>
                                                 </div>
                                             </div>
+                                            @endforeach
                                             <div class="col-lg-7 col-md-12 col-sm-12 col-12">
                                                 <div class="row no-gutters h-100 ">
+                                                    @foreach($industry as $key => $product)
+                                                    @if($key < 5)
+                                                    @continue
+                                                    @endif
                                                     <div class="col-md-4 col-sm-4 col-6 ">
                                                         <div class="item-product" data-id="14325" data-properties="">
                                                             <div class="tag-1">
                                                             </div>
                                                             <div class="image">
-                                                                <a href="san-go-giang-huong-900-x-120mm.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2017/08/san-go-tu-nhien-giang-huong-900-120mm.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Giáng Hương 900 x 120mm" /></a>
+                                                                <a href="san-go-giang-huong-900-x-120mm.html"><img src="{{$product->getImage()}}" data-src="https://cms.janhome.vn//uploads/thumb/2017/08/san-go-tu-nhien-giang-huong-900-120mm.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Giáng Hương 900 x 120mm" /></a>
                                                                 <div class="tag-2">
                                                                     <img src="#" class="img-fluid tag-2-thumb" />
                                                                 </div>
@@ -1692,72 +1545,7 @@
                                                             </div>
                                                         </div>
                                                     </div>
-                                                    <div class="col-md-4 col-sm-4 col-6 ">
-                                                        <div class="item-product" data-id="28795" data-properties="">
-                                                            <div class="tag-1">
-                                                            </div>
-                                                            <div class="image">
-                                                                <a href="san-go-chiu-liu-750-x-90mm.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2017/10/san-go-chiu-liu-750-90.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Chiu Liu 750 x 90mm" /></a>
-                                                                <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
-                                                                </div>
-                                                            </div>
-                                                            <div class="">
-                                                                <h5 class="title">
-                                                                <a href="san-go-chiu-liu-750-x-90mm.html" title="Sàn gỗ Chiu Liu 750 x 90mm">
-                                                                    Sàn gỗ Chiu Liu 750 x 90mm
-                                                                </a>
-                                                                </h5>
-                                                                <div class="price-new">
-                                                                    1.050.000đ đ / m2
-                                                                </div>
-                                                                <div class="size small mb-1">
-                                                                    Kích thước: 15 x 90 x 750 mm
-                                                                </div>
-                                                                <div class="review d-flex">
-                                                                    <div class="color-FFAB1B mr-2">
-                                                                        0,0/5<i class="fas fa-star ml-1"></i>
-                                                                    </div>
-                                                                    <div class="color-828282">
-                                                                        0 đánh giá
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                                                        <div class="item-product" data-id="28808" data-properties="">
-                                                            <div class="tag-1">
-                                                            </div>
-                                                            <div class="image">
-                                                                <a href="san-go-cam-xe-600-x-120mm.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2017/10/san-go-cam-xe-600-120mm.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ Căm Xe 600 x 120mm" /></a>
-                                                                <div class="tag-2">
-                                                                    <img src="#" class="img-fluid tag-2-thumb" />
-                                                                </div>
-                                                            </div>
-                                                            <div class="">
-                                                                <h5 class="title">
-                                                                <a href="san-go-cam-xe-600-x-120mm.html" title="Sàn gỗ Căm Xe 600 x 120mm">
-                                                                    Sàn gỗ Căm Xe 600 x 120mm
-                                                                </a>
-                                                                </h5>
-                                                                <div class="price-new">
-                                                                    970.000đ đ / m2
-                                                                </div>
-                                                                <div class="size small mb-1">
-                                                                    Kích thước: 15 x 120 x 600 mm
-                                                                </div>
-                                                                <div class="review d-flex">
-                                                                    <div class="color-FFAB1B mr-2">
-                                                                        0,0/5<i class="fas fa-star ml-1"></i>
-                                                                    </div>
-                                                                    <div class="color-828282">
-                                                                        0 đánh giá
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                    @endforeach
                                                 </div>
                                             </div>
                                         </div>
@@ -1792,20 +1580,21 @@
                                         <!-- Additional required wrapper -->
                                         <div class="swiper-wrapper">
                                             <!-- Slides -->
+                                            @foreach ($sale as $key => $product)
                                             <div class="swiper-slide">
                                                 <div class="item-product" data-id="92883" data-properties="">
                                                     <div class="tag-1">
                                                     </div>
                                                     <div class="image">
-                                                        <a href="san-go-viet-nam-thanh-ly-tl109.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-viet-nam-thanh-ly-tl109.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL109" /></a>
+                                                        <a href="san-go-viet-nam-thanh-ly-tl109.html"><img src="{{$product->getImage()}}" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL109" /></a>
                                                         <div class="tag-2">
-                                                            <img src="#" class="img-fluid tag-2-thumb" />
+                                                            <img src="" class="img-fluid tag-2-thumb" />
                                                         </div>
                                                     </div>
                                                     <div class="">
                                                         <h5 class="title">
                                                         <a href="san-go-viet-nam-thanh-ly-tl109.html" title="Sàn gỗ Việt Nam thanh lý TL109">
-                                                            Sàn gỗ Việt Nam thanh lý TL109
+                                                            {!!$product->title!!}
                                                         </a>
                                                         </h5>
                                                         <div class="price-new">
@@ -1828,30 +1617,993 @@
                                                 </div>
                                             </div>
                                         </div>
+                                        @endforeach
+                                    </div>
+                                    <!-- If we need navigation buttons -->
+                                </div>
+                                <div class="swiper-button-prev">
+                                    <button class="btn btn-secondary"><i class="fas fa-chevron-left"></i></button>
+                                </div>
+                                <div class="swiper-button-next">
+                                    <button class="btn btn-secondary"><i class="fas fa-chevron-right"></i></button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!--ĐỒ trnag trí-->
+                <section class="my-4 san-go-nb">
+                    <div class="container ">
+                        <div class="bg-fff pt-3 border-r-4" >
+                            <div class="container">
+                                <div class="row mb-3 no-gutters ">
+                                    <div class="col-md-3 col-12 mb-2 mb-md-0">
+                                        <a href="san-nhua.html" class="h5 font-weight-bold ">SÀN NHỰA</a>
+                                    </div>
+                                    <div class="col-md-9 col-12 d-lg-flex justify-content-lg-end align-self-center">
+                                        <div class="menu-op align-self-center mr-lg-3">
+                                            <!--menu mobile-->
+                                            <div class="d-flex flex-wrap d-lg-none">
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region active" data-region-id="1485">Sàn nhựa bán chạy</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1452">Florton SPC hèm khóa</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1444">Ecofloor Vinyl</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1428">Sàn Railflex</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1451">Sàn Galaxy</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1453">Sàn nhựa Mines</a>
+                                            </div>
+                                            <!--menu mobile end-->
+                                            <!--menu pc-->
+                                            <div class="swiper-container d-none d-lg-block">
+                                                <!-- Additional required wrapper -->
+                                                <div class="swiper-wrapper">
+                                                    <!-- Slides -->
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1485">Sàn nhựa bán chạy</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1452">Florton SPC hèm khóa</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1444">Ecofloor Vinyl</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1428">Sàn Railflex</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1451">Sàn Galaxy</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1453">Sàn nhựa Mines</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--menu pc end-->
+                                        </div>
+                                        <div class=" align-self-center  ">
+                                            <a href="javascript:void(0)" class="link-view-more url-old-link">Xem tất cả</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="_binding_product">
+                                    <div class="set-total" data-total="8" data-id="1485" style="display:none"></div>
+                                    <div class="row no-gutters mb-3 mb-md-0">
+                                        @foreach($plastic as $key => $product)
+                                        @if($key == 1)
+                                        @break
+                                        @endif
+                                        <div class="col-lg-5 col-md-12 col-sm-12 col-12">
+                                            <div class="item-product item-product-large">
+                                                <div class="image">
+                                                    <a href="san-nhua-ecofloor-vinyl-fy7043-1.html">
+                                                        <img src="{{$product->getImage()}}" class="img-fluid lazy" style="height: 300px" alt="Sàn nhựa ECOFLOOR VINYL FY7043-1" />
+                                                    </a>
+                                                </div>
+                                                <div class="py-1">
+                                                    <h5 class="title">
+                                                    <a href="san-nhua-ecofloor-vinyl-fy7043-1.html" title="Sàn nhựa ECOFLOOR VINYL FY7043-1">
+                                                        {!!$product->title!!}
+                                                    </a>
+                                                    </h5>
+                                                    <div class="price-new">
+                                                        98.000đ đ / m2
+                                                    </div>
+                                                    <div class="price-old">
+                                                        125.000đđ
+                                                    </div>
+                                                    <div class="size small mb-1">
+                                                        Kích thước: 2 x 152 x 914 mm
+                                                    </div>
+                                                    <div class="review d-flex">
+                                                        <div class="color-FFAB1B mr-2">
+                                                            0,0/5<i class="fas fa-star ml-1"></i>
+                                                        </div>
+                                                        <div class="color-828282">
+                                                            0 đánh giá
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        @endforeach
+                                        <div class="col-lg-7 col-md-12 col-sm-12 col-12">
+                                            <div class="row no-gutters h-100 ">
+                                                @foreach($plastic as $key => $product)
+                                                @if($key == 0 || $key == 1)
+                                                @continue
+                                                @endif
+                                                @if($key == 5)
+                                                @break
+                                                @endif
+                                                <div class="col-md-4 col-sm-4 col-6 ">
+                                                    <div class="item-product" data-id="26375" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="san-nhua-ecofloor-vinyl-fy6029-3.html"><img src="{{$product->getImage()}}" class="lazy img-fluid" alt="Sàn nhựa ECOFLOOR VINYL FY6029-3" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="san-nhua-ecofloor-vinyl-fy6029-3.html" title="Sàn nhựa ECOFLOOR VINYL FY6029-3">
+                                                                {!!$product->title!!}
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                125.000đ đ / m2
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 2 x 152 x 914 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                @endforeach
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row no-gutters">
+                                        @foreach($plastic as $key => $product)
+                                        @if($key == 0)
+                                        @continue
+                                        @endif
+                                        @if($key == 2)
+                                        @break
+                                        @endif
+                                        <div class="col-lg-5 col-md-12 col-sm-12 col-12">
+                                            <div class="item-product item-product-large">
+                                                <div class="image">
+                                                    <a href="san-nhua-hem-khoa-florton-spc-fs4809.html">
+                                                        <img src="{{$product->getImage()}}" class="lazy img-fluid" style="height: 300px" alt="Sàn nhựa hèm khóa Florton SPC FS4809" />
+                                                    </a>
+                                                </div>
+                                                <div class="py-1">
+                                                    <h5 class="title">
+                                                    <a href="san-nhua-hem-khoa-florton-spc-fs4809.html" title="Sàn nhựa hèm khóa Florton SPC FS4809">
+                                                        {!!$product->title!!}
+                                                    </a>
+                                                    </h5>
+                                                    <div class="price-new">
+                                                        265.000đ đ / m2
+                                                    </div>
+                                                    <div class="size small mb-1">
+                                                        Kích thước: 4 x 153 x 1224 mm
+                                                    </div>
+                                                    <div class="review d-flex">
+                                                        <div class="color-FFAB1B mr-2">
+                                                            0,0/5<i class="fas fa-star ml-1"></i>
+                                                        </div>
+                                                        <div class="color-828282">
+                                                            0 đánh giá
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        @endforeach
+                                        <div class="col-lg-7 col-md-12 col-sm-12 col-12">
+                                            <div class="row no-gutters h-100 ">
+                                                @foreach($plastic as $key => $product)
+                                                @if($key < 5)
+                                                @continue
+                                                @endif
+                                                <div class="col-md-4 col-sm-4 col-6 ">
+                                                    <div class="item-product" data-id="93737" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="san-nhua-hem-khoa-florton-spc-fs4803.html"><img src="{{$product->getImage()}}" data-src="https://cms.janhome.vn//uploads/thumb/2020/03/san-nhua-hem-khoa-florton-spc-fs4803-1.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn nhựa hèm khóa Florton SPC FS4803" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="san-nhua-hem-khoa-florton-spc-fs4803.html" title="Sàn nhựa hèm khóa Florton SPC FS4803">
+                                                                {!!$product->title!!}
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                265.000đ đ / m2
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 4 x 153 x 1224 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                @endforeach
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="javascript:void(0)" class="view-remain-product" data-skip="8" data-size="" data-id="">
+                                    <div class="see-more"><i class="fas fa-angle-double-right"></i> Xem thêm <span class="remain-product"><b>0</b></span> sản phẩm </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!--ĐỒ gia dụng-->
+                <section class="my-4 san-go-nb">
+                    <div class="container ">
+                        <div class="bg-fff pt-3 border-r-4" >
+                            <div class="container">
+                                <div class="row mb-3 no-gutters ">
+                                    <div class="col-md-3 col-12 mb-2 mb-md-0">
+                                        <a href="san-go-ngoai-troi.html" class="h5 font-weight-bold ">SÀN GỖ NGOÀI TRỜI</a>
+                                    </div>
+                                    <div class="col-md-9 col-12 d-lg-flex justify-content-lg-end align-self-center">
+                                        <div class="menu-op align-self-center mr-lg-3">
+                                            <!--menu mobile-->
+                                            <div class="d-flex flex-wrap d-lg-none">
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region active" data-region-id="1488">Sàn gỗ ngoài trời bán chạy</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1462">Sàn Timberman</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1460">Sàn sân vườn</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1459">Sàn bể bơi</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1461">Sàn JANWOOD</a>
+                                            </div>
+                                            <!--menu mobile end-->
+                                            <!--menu pc-->
+                                            <div class="swiper-container d-none d-lg-block">
+                                                <!-- Additional required wrapper -->
+                                                <div class="swiper-wrapper">
+                                                    <!-- Slides -->
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1488">Sàn gỗ ngoài trời<br>bán chạy </a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1462">Sàn Timberman</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1460">Sàn sân vườn</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1459">Sàn bể bơi</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1461">Sàn JANWOOD</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--menu pc end-->
+                                        </div>
+                                        <div class=" align-self-center  ">
+                                            <a href="javascript:void(0)" class="link-view-more url-old-link">Xem tất cả</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="_binding_product">
+                                    <div class="set-total" data-total="11" data-id="1488" style="display:none"></div>
+                                    <div class="row no-gutters mb-3 mb-md-0">
+                                        <div class="col-lg-5 col-md-12 col-sm-12 col-12">
+                                            <div class="item-product item-product-large">
+                                                <div class="image">
+                                                    <a href="san-go-ngoai-troi-timberman-tm140k25-wood-4-lo.html">
+                                                        <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/08/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-banner-san-go-ngoai-troi-timberman-tbm140k25--wood.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ ngoài trời Timberman TBM01W2 Wood (4 lỗ)" />
+                                                    </a>
+                                                </div>
+                                                <div class="py-1">
+                                                    <h5 class="title">
+                                                    <a href="san-go-ngoai-troi-timberman-tm140k25-wood-4-lo.html" title="Sàn gỗ ngoài trời Timberman TBM01W2 Wood (4 lỗ)">
+                                                        Sàn gỗ ngoài trời Timberman TBM01W2 Wood (4 lỗ)
+                                                    </a>
+                                                    </h5>
+                                                    <div class="price-new">
+                                                        90.000đ đ / M dài
+                                                    </div>
+                                                    <div class="size small mb-1">
+                                                        Kích thước: 25 x 140 x 2200 mm
+                                                    </div>
+                                                    <div class="review d-flex">
+                                                        <div class="color-FFAB1B mr-2">
+                                                            1,0/5<i class="fas fa-star ml-1"></i>
+                                                        </div>
+                                                        <div class="color-828282">
+                                                            1 đánh giá
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-7 col-md-12 col-sm-12 col-12">
+                                            <div class="row no-gutters h-100 ">
+                                                <div class="col-md-4 col-sm-4 col-6 ">
+                                                    <div class="item-product" data-id="25648" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="san-go-ngoai-troi-timberman-tm140k25-dark-grey-4-lo.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2017/09/tam-lat-san-ngoai-troi-timberman-tm140k25-dark-grey-.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời Timberman TM140K25 Dark Grey (4 lỗ)" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="san-go-ngoai-troi-timberman-tm140k25-dark-grey-4-lo.html" title="Sàn gỗ ngoài trời Timberman TM140K25 Dark Grey (4 lỗ)">
+                                                                Sàn gỗ ngoài trời Timberman TM140K25 Dark Grey (4 lỗ)
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                90.000đ đ / M dài
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 25 x 140 x 2200 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    5,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    1 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 col-sm-4 col-6 ">
+                                                    <div class="item-product" data-id="41502" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="san-go-ngoai-troi-timberman-ban-nguyet-tm140k23.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2018/01/san-go-ngoai-troi-timberman-ban-nguyet-tm140k23.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời Timberman bán nguyệt TM140K23" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="san-go-ngoai-troi-timberman-ban-nguyet-tm140k23.html" title="Sàn gỗ ngoài trời Timberman bán nguyệt TM140K23">
+                                                                Sàn gỗ ngoài trời Timberman bán nguyệt TM140K23
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                135.000đ đ / M dài
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 23 x 140 x 2200 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
+                                                    <div class="item-product" data-id="54316" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="san-go-ngoai-troi-timberman-tm105k30-coffee.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2018/05/san-go-ngoai-troi-timberman-105k30-coffee.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời TimberMan TM105K30 - Coffee" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="san-go-ngoai-troi-timberman-tm105k30-coffee.html" title="Sàn gỗ ngoài trời TimberMan TM105K30 - Coffee">
+                                                                Sàn gỗ ngoài trời TimberMan TM105K30 - Coffee
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                98.000đ đ / M dài
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 30 x 105 x 2200 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row no-gutters">
+                                        <div class="col-lg-5 col-md-12 col-sm-12 col-12">
+                                            <div class="item-product item-product-large">
+                                                <div class="image">
+                                                    <a href="san-go-ngoai-troi-timberman-tm140k25-coffee-4-lo.html">
+                                                        <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/08/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-banner-san-go-ngoai-troi-timberman-tbm140k25.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời Timberman TBM01W1 Coffee (4 lỗ)" />
+                                                    </a>
+                                                </div>
+                                                <div class="py-1">
+                                                    <h5 class="title">
+                                                    <a href="san-go-ngoai-troi-timberman-tm140k25-coffee-4-lo.html" title="Sàn gỗ ngoài trời Timberman TBM01W1 Coffee (4 lỗ)">
+                                                        Sàn gỗ ngoài trời Timberman TBM01W1 Coffee (4 lỗ)
+                                                    </a>
+                                                    </h5>
+                                                    <div class="price-new">
+                                                        90.000đ đ / M dài
+                                                    </div>
+                                                    <div class="size small mb-1">
+                                                        Kích thước: 25 x 140 x 2200 mm
+                                                    </div>
+                                                    <div class="review d-flex">
+                                                        <div class="color-FFAB1B mr-2">
+                                                            4,5/5<i class="fas fa-star ml-1"></i>
+                                                        </div>
+                                                        <div class="color-828282">
+                                                            2 đánh giá
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-7 col-md-12 col-sm-12 col-12">
+                                            <div class="row no-gutters h-100 ">
+                                                <div class="col-md-4 col-sm-4 col-6 ">
+                                                    <div class="item-product" data-id="71601" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="san-go-ngoai-troi-timberman-nhap-khau-tbm06w2.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/15/tam-lat-san-timberman-tbm06w2.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời Timberman Nhập khẩu TBM06W2" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="san-go-ngoai-troi-timberman-nhap-khau-tbm06w2.html" title="Sàn gỗ ngoài trời Timberman Nhập khẩu TBM06W2">
+                                                                Sàn gỗ ngoài trời Timberman Nhập khẩu TBM06W2
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                98.000đ đ / M dài
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 25 x 140 x 2200 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 col-sm-4 col-6 ">
+                                                    <div class="item-product" data-id="79054" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="san-go-ngoai-troi-timberman-nhap-khautm140k25-coffee-4-lo.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/05/san-go-ngoai-troi-timberman-tbm140k25-nhap-khau.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời Timberman Nhập Khẩu TM140K25 Coffee (4 lỗ)" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="san-go-ngoai-troi-timberman-nhap-khautm140k25-coffee-4-lo.html" title="Sàn gỗ ngoài trời Timberman Nhập Khẩu TM140K25 Coffee (4 lỗ)">
+                                                                Sàn gỗ ngoài trời Timberman Nhập Khẩu TM140K25 Coffee (4 lỗ)
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                98.000đ đ / M dài
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 25 x 140 x 2200 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    2,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    1 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
+                                                    <div class="item-product" data-id="79160" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="san-go-ngoai-troi-dac-timberman-nhap-khau-tm140s25.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/06/san-go-ngoài-troi-timberman-dac-nhieu-ranh-nho-tbm06w1059.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời đặc Timberman Nhập Khẩu TBM06W1059" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="san-go-ngoai-troi-dac-timberman-nhap-khau-tm140s25.html" title="Sàn gỗ ngoài trời đặc Timberman Nhập Khẩu TBM06W1059">
+                                                                Sàn gỗ ngoài trời đặc Timberman Nhập Khẩu TBM06W1059
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                135.000đ đ / M dài
+                                                            </div>
+                                                            <div class="price-old">
+                                                                165.000đđ
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 25 x 140 x 2200 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="javascript:void(0)" class="view-remain-product" data-skip="8" data-size="" data-id="">
+                                    <div class="see-more"><i class="fas fa-angle-double-right"></i> Xem thêm <span class="remain-product"><b>0</b></span> sản phẩm </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="my-4 san-go-nb">
+                    <div class="container ">
+                        <div class="bg-fff pt-3 border-r-4" >
+                            <div class="container">
+                                <div class="row mb-3 no-gutters ">
+                                    <div class="col-md-3 col-12 mb-2 mb-md-0">
+                                        <a href="trang-tri-noi-that.html" class="h5 font-weight-bold ">TRANG TRÍ NỘI THẤT</a>
+                                    </div>
+                                    <div class="col-md-9 col-12 d-lg-flex justify-content-lg-end align-self-center">
+                                        <div class="menu-op align-self-center mr-lg-3">
+                                            <!--menu mobile-->
+                                            <div class="d-flex flex-wrap d-lg-none">
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region active" data-region-id="1493">Trang trí nội thất bán chạy</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1491">Ốp Nano TimberMan</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1481">Giấy dán tường</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1489">ốp tường trương nhà</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1463">Thảm trải sàn 2020</a>
+                                                <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1433">Rèm cửa HOT</a>
+                                            </div>
+                                            <!--menu mobile end-->
+                                            <!--menu pc-->
+                                            <div class="swiper-container d-none d-lg-block">
+                                                <!-- Additional required wrapper -->
+                                                <div class="swiper-wrapper">
+                                                    <!-- Slides -->
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1493">Trang trí nội thất<br>bán chạy </a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1491">Ốp Nano TimberMan</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1481">Giấy dán tường</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1489">ốp tường trương nhà</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1463">Thảm trải sàn 2020</a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="swiper-slide">
+                                                        <div>
+                                                            <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1433">Rèm cửa HOT</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!--menu pc end-->
+                                        </div>
+                                        <div class=" align-self-center  ">
+                                            <a href="javascript:void(0)" class="link-view-more url-old-link">Xem tất cả</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="_binding_product">
+                                    <div class="set-total" data-total="8" data-id="1493" style="display:none"></div>
+                                    <div class="row no-gutters mb-3 mb-md-0">
+                                        <div class="col-lg-5 col-md-12 col-sm-12 col-12">
+                                            <div class="item-product item-product-large">
+                                                <div class="image">
+                                                    <a href="op-tuong-pvc-gia-da-jnd062799.html">
+                                                        <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/14/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-tam-op-tuong-pvc-gia-da-jnd62799.jpg?v=1.0.0" class="img-fluid lazy" alt="Ốp tường PVC giả đá JND062799" />
+                                                    </a>
+                                                </div>
+                                                <div class="py-1">
+                                                    <h5 class="title">
+                                                    <a href="op-tuong-pvc-gia-da-jnd062799.html" title="Ốp tường PVC giả đá JND062799">
+                                                        Ốp tường PVC giả đá JND062799
+                                                    </a>
+                                                    </h5>
+                                                    <div class="price-new">
+                                                        295.000đ đ / Tấm
+                                                    </div>
+                                                    <div class="size small mb-1">
+                                                        Kích thước: 2.7 x 2440 x 1220 mm
+                                                    </div>
+                                                    <div class="review d-flex">
+                                                        <div class="color-FFAB1B mr-2">
+                                                            4,0/5<i class="fas fa-star ml-1"></i>
+                                                        </div>
+                                                        <div class="color-828282">
+                                                            2 đánh giá
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-7 col-md-12 col-sm-12 col-12">
+                                            <div class="row no-gutters h-100 ">
+                                                <div class="col-md-4 col-sm-4 col-6 ">
+                                                    <div class="item-product" data-id="90808" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="tam-op-nano-timerman-tbm14p94020.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/12/tam-op-nano-timberman-tbm14p94020.jpg?v=1.0.0" class="lazy img-fluid" alt="Tấm ốp Nano TimerMan TBM14P94020" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="tam-op-nano-timerman-tbm14p94020.html" title="Tấm ốp Nano TimerMan TBM14P94020">
+                                                                Tấm ốp Nano TimerMan TBM14P94020
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                380.000đ đ / m2
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 9 x 400 x 3000 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 col-sm-4 col-6 ">
+                                                    <div class="item-product" data-id="90817" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="tam-op-nano-timerman-tbm14p94022.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/12/tam-op-nano-timberman-tbm14p94022.jpg?v=1.0.0" class="lazy img-fluid" alt="Tấm ốp Nano TimerMan TBM14P94022" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="tam-op-nano-timerman-tbm14p94022.html" title="Tấm ốp Nano TimerMan TBM14P94022">
+                                                                Tấm ốp Nano TimerMan TBM14P94022
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                380.000đ đ / m2
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 9 x 400 x 3000 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
+                                                    <div class="item-product" data-id="96043" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="tam-op-4-song-phu-phim-timberman-tbm14p49022.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/08/tam-op-4song-phu-phim-tbm14p49022.jpg?v=1.0.0" class="lazy img-fluid" alt="Tấm ốp 4 sóng phủ phim TimberMan TBM14P49022" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="tam-op-4-song-phu-phim-timberman-tbm14p49022.html" title="Tấm ốp 4 sóng phủ phim TimberMan TBM14P49022">
+                                                                Tấm ốp 4 sóng phủ phim TimberMan TBM14P49022
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                64.000đ đ / m dài
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 3000 x 155 x 9 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row no-gutters">
+                                        <div class="col-lg-5 col-md-12 col-sm-12 col-12">
+                                            <div class="item-product item-product-large">
+                                                <div class="image">
+                                                    <a href="tam-op-nano-timerman-tbm14p94001.html">
+                                                        <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/14/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-tam-op-nano-timberman-tbm14p94001.jpg?v=1.0.0" class="lazy img-fluid" alt="Tấm ốp Nano TimerMan TBM14P94001" />
+                                                    </a>
+                                                </div>
+                                                <div class="py-1">
+                                                    <h5 class="title">
+                                                    <a href="tam-op-nano-timerman-tbm14p94001.html" title="Tấm ốp Nano TimerMan TBM14P94001">
+                                                        Tấm ốp Nano TimerMan TBM14P94001
+                                                    </a>
+                                                    </h5>
+                                                    <div class="price-new">
+                                                        380.000đ đ / m2
+                                                    </div>
+                                                    <div class="size small mb-1">
+                                                        Kích thước: 9 x 400 x 3000 mm
+                                                    </div>
+                                                    <div class="review d-flex">
+                                                        <div class="color-FFAB1B mr-2">
+                                                            1,0/5<i class="fas fa-star ml-1"></i>
+                                                        </div>
+                                                        <div class="color-828282">
+                                                            1 đánh giá
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-lg-7 col-md-12 col-sm-12 col-12">
+                                            <div class="row no-gutters h-100 ">
+                                                <div class="col-md-4 col-sm-4 col-6 ">
+                                                    <div class="item-product" data-id="85525" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="op-tuong-pvc-gia-da-jnd062705.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/08/op-tuong-pvc-gia-da-jnd062705.jpg?v=1.0.0" class="lazy img-fluid" alt="Ốp tường PVC giả đá JND062705" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="op-tuong-pvc-gia-da-jnd062705.html" title="Ốp tường PVC giả đá JND062705">
+                                                                Ốp tường PVC giả đá JND062705
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                295.000đ đ / Tấm
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 2.7 x 2440 x 1220 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 col-sm-4 col-6 ">
+                                                    <div class="item-product" data-id="85579" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="op-tuong-pvc-gia-da-jnd062711.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/08/op-tuong-pvc-gia-da-jnd062711.jpg?v=1.0.0" class="lazy img-fluid" alt="Ốp tường PVC giả đá JND062711" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="op-tuong-pvc-gia-da-jnd062711.html" title="Ốp tường PVC giả đá JND062711">
+                                                                Ốp tường PVC giả đá JND062711
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                295.000đ đ / Tấm
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 2.7 x 2440 x 1220 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
+                                                    <div class="item-product" data-id="85580" data-properties="">
+                                                        <div class="tag-1">
+                                                        </div>
+                                                        <div class="image">
+                                                            <a href="op-tuong-pvc-gia-da-jnd062721.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/08/op-tuong-pvc-gia-da-jnd062721.jpg?v=1.0.0" class="lazy img-fluid" alt="Ốp tường PVC giả đá JND062721" /></a>
+                                                            <div class="tag-2">
+                                                                <img src="#" class="img-fluid tag-2-thumb" />
+                                                            </div>
+                                                        </div>
+                                                        <div class="">
+                                                            <h5 class="title">
+                                                            <a href="op-tuong-pvc-gia-da-jnd062721.html" title="Ốp tường PVC giả đá JND062721">
+                                                                Ốp tường PVC giả đá JND062721
+                                                            </a>
+                                                            </h5>
+                                                            <div class="price-new">
+                                                                295.000đ đ / Tấm
+                                                            </div>
+                                                            <div class="size small mb-1">
+                                                                Kích thước: 2.7 x 2440 x 1220 mm
+                                                            </div>
+                                                            <div class="review d-flex">
+                                                                <div class="color-FFAB1B mr-2">
+                                                                    0,0/5<i class="fas fa-star ml-1"></i>
+                                                                </div>
+                                                                <div class="color-828282">
+                                                                    0 đánh giá
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <a href="javascript:void(0)" class="view-remain-product" data-skip="8" data-size="" data-id="">
+                                    <div class="see-more"><i class="fas fa-angle-double-right"></i> Xem thêm <span class="remain-product"><b>0</b></span> sản phẩm </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section class="my-4">
+                    <div class="container ">
+                        <div class="bg-fff pt-3 border-r-4">
+                            <div class="px-3">
+                                <div class="row mb-3 no-gutters ">
+                                    <div class="col-8">
+                                        <a href="javascript:void(0)" class="h5 font-weight-bold ">Sản phẩm gia dụng</a>
+                                    </div>
+                                    <div class="col-4 text-right">
+                                        <a href="danh-muc/san-pham-gia-dung.html" class="link-view-more">
+                                            Xem thêm <i class="fas fa-chevron-right ml-1 small"></i>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Slider main container -->
+                            <div class="slide-product slide-8">
+                                <div class="swiper-container ">
+                                    <!-- Additional required wrapper -->
+                                    <div class="swiper-wrapper">
+                                        <!-- Slides -->
                                         <div class="swiper-slide">
-                                            <div class="item-product" data-id="92891" data-properties="">
+                                            <div class="item-product" data-id="96090" data-properties="">
                                                 <div class="tag-1">
                                                 </div>
                                                 <div class="image">
-                                                    <a href="san-go-viet-nam-thanh-ly-tl1025d__trashed.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-viet-nam-thanh-ly-tl1025d.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL1025D" /></a>
+                                                    <a href="may-loc-nuoc-ro-kostlich-9-loi-klwf-20092.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/05/may-loc-nuoc-ro-kostlich-9-loi-klwf-20092.png?v=1.0.0" class="img-fluid lazy" alt="Máy lọc nước RO Kostlich 9 lõi KLWF-20092" /></a>
                                                     <div class="tag-2">
                                                         <img src="#" class="img-fluid tag-2-thumb" />
                                                     </div>
                                                 </div>
                                                 <div class="">
                                                     <h5 class="title">
-                                                    <a href="san-go-viet-nam-thanh-ly-tl1025d__trashed.html" title="Sàn gỗ Việt Nam thanh lý TL1025D">
-                                                        Sàn gỗ Việt Nam thanh lý TL1025D
+                                                    <a href="may-loc-nuoc-ro-kostlich-9-loi-klwf-20092.html" title="Máy lọc nước RO Kostlich 9 lõi KLWF-20092">
+                                                        Máy lọc nước RO Kostlich 9 lõi KLWF-20092
                                                     </a>
                                                     </h5>
                                                     <div class="price-new">
-                                                        98.000đ đ / m2
+                                                        6.800.000đ đ / Chiếc
                                                     </div>
                                                     <div class="price-old-none">
                                                     <pre>&nbsp;</pre>
                                                 </div>
                                                 <div class="size small mb-1">
-                                                    Kích thước: 8 x 132 x 1225 mm
+                                                    DF: Default Value mm
                                                 </div>
                                                 <div class="review d-flex">
                                                     <div class="color-FFAB1B mr-2">
@@ -1865,29 +2617,29 @@
                                         </div>
                                     </div>
                                     <div class="swiper-slide">
-                                        <div class="item-product" data-id="92895" data-properties="">
+                                        <div class="item-product" data-id="41979" data-properties="">
                                             <div class="tag-1">
                                             </div>
                                             <div class="image">
-                                                <a href="san-go-viet-nam-thanh-ly-tlqh18a__trashed.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-viet-nam-thanh-ly-tlqh18a.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL18" /></a>
+                                                <a href="cay-lau-nha-phun-suong.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2018/01/cay-lau-nha-phun-suong-chuyen-dung.jpg?v=1.0.0" class="img-fluid lazy" alt="Cây lau nhà phun sương" /></a>
                                                 <div class="tag-2">
                                                     <img src="#" class="img-fluid tag-2-thumb" />
                                                 </div>
                                             </div>
                                             <div class="">
                                                 <h5 class="title">
-                                                <a href="san-go-viet-nam-thanh-ly-tlqh18a__trashed.html" title="Sàn gỗ Việt Nam thanh lý TL18">
-                                                    Sàn gỗ Việt Nam thanh lý TL18
+                                                <a href="cay-lau-nha-phun-suong.html" title="Cây lau nhà phun sương">
+                                                    Cây lau nhà phun sương
                                                 </a>
                                                 </h5>
                                                 <div class="price-new">
-                                                    98.000đ đ / m2
+                                                    621.000đ đ / chiếc
                                                 </div>
                                                 <div class="price-old-none">
                                                 <pre>&nbsp;</pre>
                                             </div>
                                             <div class="size small mb-1">
-                                                Kích thước: 8 x 195 x 1225 mm
+                                                Kích thước: 80 x 203 x 650 mm
                                             </div>
                                             <div class="review d-flex">
                                                 <div class="color-FFAB1B mr-2">
@@ -1901,29 +2653,29 @@
                                     </div>
                                 </div>
                                 <div class="swiper-slide">
-                                    <div class="item-product" data-id="92905" data-properties="">
+                                    <div class="item-product" data-id="71837" data-properties="">
                                         <div class="tag-1">
                                         </div>
                                         <div class="image">
-                                            <a href="san-go-viet-nam-thanh-ly-tl257.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-viet-nam-thanh-ly-tl257.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL257" /></a>
+                                            <a href="robot-hut-bui-thong-minh.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/05/robot-hut-bui-thong-minh.jpg?v=1.0.0" class="img-fluid lazy" alt="Robot Hút bụi Thông Minh" /></a>
                                             <div class="tag-2">
                                                 <img src="#" class="img-fluid tag-2-thumb" />
                                             </div>
                                         </div>
                                         <div class="">
                                             <h5 class="title">
-                                            <a href="san-go-viet-nam-thanh-ly-tl257.html" title="Sàn gỗ Việt Nam thanh lý TL257">
-                                                Sàn gỗ Việt Nam thanh lý TL257
+                                            <a href="robot-hut-bui-thong-minh.html" title="Robot Hút bụi Thông Minh">
+                                                Robot Hút bụi Thông Minh
                                             </a>
                                             </h5>
                                             <div class="price-new">
-                                                128.000đ đ / m2
+                                                7.900.000đ đ / Bộ
                                             </div>
                                             <div class="price-old-none">
                                             <pre>&nbsp;</pre>
                                         </div>
                                         <div class="size small mb-1">
-                                            Kích thước: 12 x 124 x 1223 mm
+                                            Kích thước: 78 x 300 x 300 mm
                                         </div>
                                         <div class="review d-flex">
                                             <div class="color-FFAB1B mr-2">
@@ -1937,29 +2689,29 @@
                                 </div>
                             </div>
                             <div class="swiper-slide">
-                                <div class="item-product" data-id="92910" data-properties="">
+                                <div class="item-product" data-id="71843" data-properties="">
                                     <div class="tag-1">
                                     </div>
                                     <div class="image">
-                                        <a href="san-go-viet-nam-thanh-ly-tl3259__trashed.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-viet-nam-thanh-ly-tl3259.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL3259" /></a>
+                                        <a href="thung-rac-tu-dong.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/05/thung-rac-tu-dong.jpg?v=1.0.0" class="img-fluid lazy" alt="Thùng Rác tự động thông minh" /></a>
                                         <div class="tag-2">
                                             <img src="#" class="img-fluid tag-2-thumb" />
                                         </div>
                                     </div>
                                     <div class="">
                                         <h5 class="title">
-                                        <a href="san-go-viet-nam-thanh-ly-tl3259__trashed.html" title="Sàn gỗ Việt Nam thanh lý TL3259">
-                                            Sàn gỗ Việt Nam thanh lý TL3259
+                                        <a href="thung-rac-tu-dong.html" title="Thùng Rác tự động thông minh">
+                                            Thùng Rác tự động thông minh
                                         </a>
                                         </h5>
                                         <div class="price-new">
-                                            128.000đ đ / m2
+                                            2.300.000đ đ / Cái
                                         </div>
                                         <div class="price-old-none">
                                         <pre>&nbsp;</pre>
                                     </div>
                                     <div class="size small mb-1">
-                                        Kích thước: 12 x 127 x 1223 mm
+                                        Kích thước:  mm
                                     </div>
                                     <div class="review d-flex">
                                         <div class="color-FFAB1B mr-2">
@@ -1973,29 +2725,29 @@
                             </div>
                         </div>
                         <div class="swiper-slide">
-                            <div class="item-product" data-id="92919" data-properties="">
+                            <div class="item-product" data-id="91863" data-properties="">
                                 <div class="tag-1">
                                 </div>
                                 <div class="image">
-                                    <a href="san-go-viet-nam-thanh-ly-tl6049b__trashed.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-viet-nam-tl6049a.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL6049B" /></a>
+                                    <a href="nuoc-lau-san-layer-clean-huong-gio-bien-125l.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-gio-bien-125l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương gió Biển 1,25L" /></a>
                                     <div class="tag-2">
                                         <img src="#" class="img-fluid tag-2-thumb" />
                                     </div>
                                 </div>
                                 <div class="">
                                     <h5 class="title">
-                                    <a href="san-go-viet-nam-thanh-ly-tl6049b__trashed.html" title="Sàn gỗ Việt Nam thanh lý TL6049B">
-                                        Sàn gỗ Việt Nam thanh lý TL6049B
+                                    <a href="nuoc-lau-san-layer-clean-huong-gio-bien-125l.html" title="Nước lau sàn Layer Clean hương gió Biển 1,25L">
+                                        Nước lau sàn Layer Clean hương gió Biển 1,25L
                                     </a>
                                     </h5>
                                     <div class="price-new">
-                                        128.000đ đ / m2
+                                        35.000đ đ / Chai
                                     </div>
                                     <div class="price-old-none">
                                     <pre>&nbsp;</pre>
                                 </div>
                                 <div class="size small mb-1">
-                                    Kích thước: 12 x 127 x 1223 mm
+                                    Kích thước:  mm
                                 </div>
                                 <div class="review d-flex">
                                     <div class="color-FFAB1B mr-2">
@@ -2009,29 +2761,29 @@
                         </div>
                     </div>
                     <div class="swiper-slide">
-                        <div class="item-product" data-id="92939" data-properties="">
+                        <div class="item-product" data-id="91870" data-properties="">
                             <div class="tag-1">
                             </div>
                             <div class="image">
-                                <a href="san-go-viet-nam-thanh-ly-tl8373-9.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-viet-nam-thanh-ly-tl8373-9.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL8373-9" /></a>
+                                <a href="nuoc-lau-san-layer-clean-huong-que-125l.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-que-125l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương Quế 1,25L" /></a>
                                 <div class="tag-2">
                                     <img src="#" class="img-fluid tag-2-thumb" />
                                 </div>
                             </div>
                             <div class="">
                                 <h5 class="title">
-                                <a href="san-go-viet-nam-thanh-ly-tl8373-9.html" title="Sàn gỗ Việt Nam thanh lý TL8373-9">
-                                    Sàn gỗ Việt Nam thanh lý TL8373-9
+                                <a href="nuoc-lau-san-layer-clean-huong-que-125l.html" title="Nước lau sàn Layer Clean hương Quế 1,25L">
+                                    Nước lau sàn Layer Clean hương Quế 1,25L
                                 </a>
                                 </h5>
                                 <div class="price-new">
-                                    98.000đ đ / m2
+                                    38.500đ đ / Chai
                                 </div>
                                 <div class="price-old-none">
                                 <pre>&nbsp;</pre>
                             </div>
                             <div class="size small mb-1">
-                                Kích thước: 8 x 127 x 1223 mm
+                                Kích thước:  mm
                             </div>
                             <div class="review d-flex">
                                 <div class="color-FFAB1B mr-2">
@@ -2045,29 +2797,29 @@
                     </div>
                 </div>
                 <div class="swiper-slide">
-                    <div class="item-product" data-id="92946" data-properties="">
+                    <div class="item-product" data-id="91871" data-properties="">
                         <div class="tag-1">
                         </div>
                         <div class="image">
-                            <a href="san-go-viet-nam-thanh-ly-tl885b.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-viet-nam-thanh-ly-tl885b.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL885B" /></a>
+                            <a href="nuoc-lau-san-layer-clean-huong-nuoc-hoa-125l.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-nuoc-hoa-125l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương nước Hoa 1,25L" /></a>
                             <div class="tag-2">
                                 <img src="#" class="img-fluid tag-2-thumb" />
                             </div>
                         </div>
                         <div class="">
                             <h5 class="title">
-                            <a href="san-go-viet-nam-thanh-ly-tl885b.html" title="Sàn gỗ Việt Nam thanh lý TL885B">
-                                Sàn gỗ Việt Nam thanh lý TL885B
+                            <a href="nuoc-lau-san-layer-clean-huong-nuoc-hoa-125l.html" title="Nước lau sàn Layer Clean hương nước Hoa 1,25L">
+                                Nước lau sàn Layer Clean hương nước Hoa 1,25L
                             </a>
                             </h5>
                             <div class="price-new">
-                                128.000đ đ / m2
+                                35.000đ đ / Chai
                             </div>
                             <div class="price-old-none">
                             <pre>&nbsp;</pre>
                         </div>
                         <div class="size small mb-1">
-                            Kích thước: 12 x 113 x 813 mm
+                            Kích thước:  mm
                         </div>
                         <div class="review d-flex">
                             <div class="color-FFAB1B mr-2">
@@ -2081,29 +2833,29 @@
                 </div>
             </div>
             <div class="swiper-slide">
-                <div class="item-product" data-id="92947" data-properties="">
+                <div class="item-product" data-id="91872" data-properties="">
                     <div class="tag-1">
                     </div>
                     <div class="image">
-                        <a href="san-go-viet-nam-thanh-ly-tl885c.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-viet-nam-thanh-ly-tl885c.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL885E" /></a>
+                        <a href="nuoc-lau-san-layer-clean-huong-gio-bien-5lit.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-gio-bien-5l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương gió Biển 5Lít" /></a>
                         <div class="tag-2">
                             <img src="#" class="img-fluid tag-2-thumb" />
                         </div>
                     </div>
                     <div class="">
                         <h5 class="title">
-                        <a href="san-go-viet-nam-thanh-ly-tl885c.html" title="Sàn gỗ Việt Nam thanh lý TL885E">
-                            Sàn gỗ Việt Nam thanh lý TL885E
+                        <a href="nuoc-lau-san-layer-clean-huong-gio-bien-5lit.html" title="Nước lau sàn Layer Clean hương gió Biển 5Lít">
+                            Nước lau sàn Layer Clean hương gió Biển 5Lít
                         </a>
                         </h5>
                         <div class="price-new">
-                            98.000đ đ / m2
+                            125.000đ đ / Chai
                         </div>
                         <div class="price-old-none">
                         <pre>&nbsp;</pre>
                     </div>
                     <div class="size small mb-1">
-                        Kích thước: 8 x 127 x 1225 mm
+                        Kích thước:  mm
                     </div>
                     <div class="review d-flex">
                         <div class="color-FFAB1B mr-2">
@@ -2117,29 +2869,29 @@
             </div>
         </div>
         <div class="swiper-slide">
-            <div class="item-product" data-id="92956" data-properties="">
+            <div class="item-product" data-id="91873" data-properties="">
                 <div class="tag-1">
                 </div>
                 <div class="image">
-                    <a href="san-go-viet-nam-thanh-ly-tl8686b.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/02/san-go-viet-nam-thanh-ly-tl8686b.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ Việt Nam thanh lý TL8686B" /></a>
+                    <a href="nuoc-lau-san-layer-clean-huong-que-5-lit.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-que-5l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương Quế 5 Lít" /></a>
                     <div class="tag-2">
                         <img src="#" class="img-fluid tag-2-thumb" />
                     </div>
                 </div>
                 <div class="">
                     <h5 class="title">
-                    <a href="san-go-viet-nam-thanh-ly-tl8686b.html" title="Sàn gỗ Việt Nam thanh lý TL8686B">
-                        Sàn gỗ Việt Nam thanh lý TL8686B
+                    <a href="nuoc-lau-san-layer-clean-huong-que-5-lit.html" title="Nước lau sàn Layer Clean hương Quế 5 Lít">
+                        Nước lau sàn Layer Clean hương Quế 5 Lít
                     </a>
                     </h5>
                     <div class="price-new">
-                        128.000đ đ / m2
+                        137.000đ đ / Chai
                     </div>
                     <div class="price-old-none">
                     <pre>&nbsp;</pre>
                 </div>
                 <div class="size small mb-1">
-                    Kích thước: 12 x 113 x 813 mm
+                    Kích thước:  mm
                 </div>
                 <div class="review d-flex">
                     <div class="color-FFAB1B mr-2">
@@ -2152,1098 +2904,30 @@
             </div>
         </div>
     </div>
-</div>
-<!-- If we need navigation buttons -->
-</div>
-<div class="swiper-button-prev">
-<button class="btn btn-secondary"><i class="fas fa-chevron-left"></i></button>
-</div>
-<div class="swiper-button-next">
-<button class="btn btn-secondary"><i class="fas fa-chevron-right"></i></button>
-</div>
-</div>
-</div>
-</div>
-</section>
-<!--ĐỒ trnag trí-->
-<section class="my-4 san-go-nb">
-<div class="container ">
-<div class="bg-fff pt-3 border-r-4" >
-<div class="container">
-<div class="row mb-3 no-gutters ">
-<div class="col-md-3 col-12 mb-2 mb-md-0">
-    <a href="san-nhua.html" class="h5 font-weight-bold ">SÀN NHỰA</a>
-</div>
-<div class="col-md-9 col-12 d-lg-flex justify-content-lg-end align-self-center">
-    <div class="menu-op align-self-center mr-lg-3">
-        <!--menu mobile-->
-        <div class="d-flex flex-wrap d-lg-none">
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region active" data-region-id="1485">Sàn nhựa bán chạy</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1452">Florton SPC hèm khóa</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1444">Ecofloor Vinyl</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1428">Sàn Railflex</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1451">Sàn Galaxy</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1453">Sàn nhựa Mines</a>
-        </div>
-        <!--menu mobile end-->
-        <!--menu pc-->
-        <div class="swiper-container d-none d-lg-block">
-            <!-- Additional required wrapper -->
-            <div class="swiper-wrapper">
-                <!-- Slides -->
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1485">Sàn nhựa bán chạy</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1452">Florton SPC hèm khóa</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1444">Ecofloor Vinyl</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1428">Sàn Railflex</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1451">Sàn Galaxy</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1453">Sàn nhựa Mines</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--menu pc end-->
-    </div>
-    <div class=" align-self-center  ">
-        <a href="javascript:void(0)" class="link-view-more url-old-link">Xem tất cả</a>
-    </div>
-</div>
-</div>
-<div class="_binding_product">
-<div class="set-total" data-total="8" data-id="1485" style="display:none"></div>
-<div class="row no-gutters mb-3 mb-md-0">
-    <div class="col-lg-5 col-md-12 col-sm-12 col-12">
-        <div class="item-product item-product-large">
-            <div class="image">
-                <a href="san-nhua-ecofloor-vinyl-fy7043-1.html">
-                    <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/07/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-banner-san-nhua-gia-re-ecofloor-vinlyl-fy7043-1.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn nhựa ECOFLOOR VINYL FY7043-1" />
-                </a>
-            </div>
-            <div class="py-1">
-                <h5 class="title">
-                <a href="san-nhua-ecofloor-vinyl-fy7043-1.html" title="Sàn nhựa ECOFLOOR VINYL FY7043-1">
-                    Sàn nhựa ECOFLOOR VINYL FY7043-1
-                </a>
-                </h5>
-                <div class="price-new">
-                    98.000đ đ / m2
-                </div>
-                <div class="price-old">
-                    125.000đđ
-                </div>
-                <div class="size small mb-1">
-                    Kích thước: 2 x 152 x 914 mm
-                </div>
-                <div class="review d-flex">
-                    <div class="color-FFAB1B mr-2">
-                        0,0/5<i class="fas fa-star ml-1"></i>
-                    </div>
-                    <div class="color-828282">
-                        0 đánh giá
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-7 col-md-12 col-sm-12 col-12">
-        <div class="row no-gutters h-100 ">
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="26375" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-nhua-ecofloor-vinyl-fy6029-3.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2017/10/san-nhua-ecofloor-fy6029-3.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn nhựa ECOFLOOR VINYL FY6029-3" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-nhua-ecofloor-vinyl-fy6029-3.html" title="Sàn nhựa ECOFLOOR VINYL FY6029-3">
-                            Sàn nhựa ECOFLOOR VINYL FY6029-3
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            125.000đ đ / m2
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 2 x 152 x 914 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="88722" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-nhua-ecofloor-vinyl-sx29042.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/10/san-nhua-eovinlyl-sx29042.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn nhựa ECOFLOOR VINYL SX29042" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-nhua-ecofloor-vinyl-sx29042.html" title="Sàn nhựa ECOFLOOR VINYL SX29042">
-                            Sàn nhựa ECOFLOOR VINYL SX29042
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            125.000đ đ / m2
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 2 x 152 x 914 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                <div class="item-product" data-id="88813" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-nhua-ecofloor-vinyl-xs7322.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/10/san-nhua-eovinlyl-xs7322.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn nhựa ECOFLOOR VINYL XS7322" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-nhua-ecofloor-vinyl-xs7322.html" title="Sàn nhựa ECOFLOOR VINYL XS7322">
-                            Sàn nhựa ECOFLOOR VINYL XS7322
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            125.000đ đ / m2
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 2 x 152 x 914 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="row no-gutters">
-    <div class="col-lg-5 col-md-12 col-sm-12 col-12">
-        <div class="item-product item-product-large">
-            <div class="image">
-                <a href="san-nhua-hem-khoa-florton-spc-fs4809.html">
-                    <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/08/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-banner-san-nhua-hem-khoa-florton-spc-fs4809.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn nhựa hèm khóa Florton SPC FS4809" />
-                </a>
-            </div>
-            <div class="py-1">
-                <h5 class="title">
-                <a href="san-nhua-hem-khoa-florton-spc-fs4809.html" title="Sàn nhựa hèm khóa Florton SPC FS4809">
-                    Sàn nhựa hèm khóa Florton SPC FS4809
-                </a>
-                </h5>
-                <div class="price-new">
-                    265.000đ đ / m2
-                </div>
-                <div class="size small mb-1">
-                    Kích thước: 4 x 153 x 1224 mm
-                </div>
-                <div class="review d-flex">
-                    <div class="color-FFAB1B mr-2">
-                        0,0/5<i class="fas fa-star ml-1"></i>
-                    </div>
-                    <div class="color-828282">
-                        0 đánh giá
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-7 col-md-12 col-sm-12 col-12">
-        <div class="row no-gutters h-100 ">
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="93737" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-nhua-hem-khoa-florton-spc-fs4803.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/03/san-nhua-hem-khoa-florton-spc-fs4803-1.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn nhựa hèm khóa Florton SPC FS4803" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-nhua-hem-khoa-florton-spc-fs4803.html" title="Sàn nhựa hèm khóa Florton SPC FS4803">
-                            Sàn nhựa hèm khóa Florton SPC FS4803
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            265.000đ đ / m2
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 4 x 153 x 1224 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="93742" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-nhua-hem-khoa-florton-spc-fs4805.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/03/san-nhua-hem-khoa-florton-spc-fs4805.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn nhựa hèm khóa Florton SPC FS4805" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-nhua-hem-khoa-florton-spc-fs4805.html" title="Sàn nhựa hèm khóa Florton SPC FS4805">
-                            Sàn nhựa hèm khóa Florton SPC FS4805
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            265.000đ đ / m2
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 4 x 153 x 1224 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                <div class="item-product" data-id="93854" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-nhua-hem-khoa-florton-spc-fs4808.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/03/san-nhua-hem-khoa-florton-spc-fs4808.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn nhựa hèm khóa Florton SPC FS4808" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-nhua-hem-khoa-florton-spc-fs4808.html" title="Sàn nhựa hèm khóa Florton SPC FS4808">
-                            Sàn nhựa hèm khóa Florton SPC FS4808
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            265.000đ đ / m2
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 4 x 153 x 1224 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-<a href="javascript:void(0)" class="view-remain-product" data-skip="8" data-size="" data-id="">
-<div class="see-more"><i class="fas fa-angle-double-right"></i> Xem thêm <span class="remain-product"><b>0</b></span> sản phẩm </div>
-</a>
-</div>
-</div>
-</div>
-</section>
-<!--ĐỒ gia dụng-->
-<section class="my-4 san-go-nb">
-<div class="container ">
-<div class="bg-fff pt-3 border-r-4" >
-<div class="container">
-<div class="row mb-3 no-gutters ">
-<div class="col-md-3 col-12 mb-2 mb-md-0">
-    <a href="san-go-ngoai-troi.html" class="h5 font-weight-bold ">SÀN GỖ NGOÀI TRỜI</a>
-</div>
-<div class="col-md-9 col-12 d-lg-flex justify-content-lg-end align-self-center">
-    <div class="menu-op align-self-center mr-lg-3">
-        <!--menu mobile-->
-        <div class="d-flex flex-wrap d-lg-none">
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region active" data-region-id="1488">Sàn gỗ ngoài trời bán chạy</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1462">Sàn Timberman</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1460">Sàn sân vườn</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1459">Sàn bể bơi</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1461">Sàn JANWOOD</a>
-        </div>
-        <!--menu mobile end-->
-        <!--menu pc-->
-        <div class="swiper-container d-none d-lg-block">
-            <!-- Additional required wrapper -->
-            <div class="swiper-wrapper">
-                <!-- Slides -->
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1488">Sàn gỗ ngoài trời<br>bán chạy </a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1462">Sàn Timberman</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1460">Sàn sân vườn</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1459">Sàn bể bơi</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1461">Sàn JANWOOD</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--menu pc end-->
-    </div>
-    <div class=" align-self-center  ">
-        <a href="javascript:void(0)" class="link-view-more url-old-link">Xem tất cả</a>
-    </div>
-</div>
-</div>
-<div class="_binding_product">
-<div class="set-total" data-total="11" data-id="1488" style="display:none"></div>
-<div class="row no-gutters mb-3 mb-md-0">
-    <div class="col-lg-5 col-md-12 col-sm-12 col-12">
-        <div class="item-product item-product-large">
-            <div class="image">
-                <a href="san-go-ngoai-troi-timberman-tm140k25-wood-4-lo.html">
-                    <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/08/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-banner-san-go-ngoai-troi-timberman-tbm140k25--wood.jpg?v=1.0.0" class="img-fluid lazy" alt="Sàn gỗ ngoài trời Timberman TBM01W2 Wood (4 lỗ)" />
-                </a>
-            </div>
-            <div class="py-1">
-                <h5 class="title">
-                <a href="san-go-ngoai-troi-timberman-tm140k25-wood-4-lo.html" title="Sàn gỗ ngoài trời Timberman TBM01W2 Wood (4 lỗ)">
-                    Sàn gỗ ngoài trời Timberman TBM01W2 Wood (4 lỗ)
-                </a>
-                </h5>
-                <div class="price-new">
-                    90.000đ đ / M dài
-                </div>
-                <div class="size small mb-1">
-                    Kích thước: 25 x 140 x 2200 mm
-                </div>
-                <div class="review d-flex">
-                    <div class="color-FFAB1B mr-2">
-                        1,0/5<i class="fas fa-star ml-1"></i>
-                    </div>
-                    <div class="color-828282">
-                        1 đánh giá
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-7 col-md-12 col-sm-12 col-12">
-        <div class="row no-gutters h-100 ">
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="25648" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-go-ngoai-troi-timberman-tm140k25-dark-grey-4-lo.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2017/09/tam-lat-san-ngoai-troi-timberman-tm140k25-dark-grey-.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời Timberman TM140K25 Dark Grey (4 lỗ)" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-go-ngoai-troi-timberman-tm140k25-dark-grey-4-lo.html" title="Sàn gỗ ngoài trời Timberman TM140K25 Dark Grey (4 lỗ)">
-                            Sàn gỗ ngoài trời Timberman TM140K25 Dark Grey (4 lỗ)
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            90.000đ đ / M dài
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 25 x 140 x 2200 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                5,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                1 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="41502" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-go-ngoai-troi-timberman-ban-nguyet-tm140k23.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2018/01/san-go-ngoai-troi-timberman-ban-nguyet-tm140k23.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời Timberman bán nguyệt TM140K23" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-go-ngoai-troi-timberman-ban-nguyet-tm140k23.html" title="Sàn gỗ ngoài trời Timberman bán nguyệt TM140K23">
-                            Sàn gỗ ngoài trời Timberman bán nguyệt TM140K23
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            135.000đ đ / M dài
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 23 x 140 x 2200 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                <div class="item-product" data-id="54316" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-go-ngoai-troi-timberman-tm105k30-coffee.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2018/05/san-go-ngoai-troi-timberman-105k30-coffee.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời TimberMan TM105K30 - Coffee" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-go-ngoai-troi-timberman-tm105k30-coffee.html" title="Sàn gỗ ngoài trời TimberMan TM105K30 - Coffee">
-                            Sàn gỗ ngoài trời TimberMan TM105K30 - Coffee
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            98.000đ đ / M dài
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 30 x 105 x 2200 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="row no-gutters">
-    <div class="col-lg-5 col-md-12 col-sm-12 col-12">
-        <div class="item-product item-product-large">
-            <div class="image">
-                <a href="san-go-ngoai-troi-timberman-tm140k25-coffee-4-lo.html">
-                    <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/08/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-banner-san-go-ngoai-troi-timberman-tbm140k25.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời Timberman TBM01W1 Coffee (4 lỗ)" />
-                </a>
-            </div>
-            <div class="py-1">
-                <h5 class="title">
-                <a href="san-go-ngoai-troi-timberman-tm140k25-coffee-4-lo.html" title="Sàn gỗ ngoài trời Timberman TBM01W1 Coffee (4 lỗ)">
-                    Sàn gỗ ngoài trời Timberman TBM01W1 Coffee (4 lỗ)
-                </a>
-                </h5>
-                <div class="price-new">
-                    90.000đ đ / M dài
-                </div>
-                <div class="size small mb-1">
-                    Kích thước: 25 x 140 x 2200 mm
-                </div>
-                <div class="review d-flex">
-                    <div class="color-FFAB1B mr-2">
-                        4,5/5<i class="fas fa-star ml-1"></i>
-                    </div>
-                    <div class="color-828282">
-                        2 đánh giá
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-7 col-md-12 col-sm-12 col-12">
-        <div class="row no-gutters h-100 ">
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="71601" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-go-ngoai-troi-timberman-nhap-khau-tbm06w2.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/15/tam-lat-san-timberman-tbm06w2.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời Timberman Nhập khẩu TBM06W2" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-go-ngoai-troi-timberman-nhap-khau-tbm06w2.html" title="Sàn gỗ ngoài trời Timberman Nhập khẩu TBM06W2">
-                            Sàn gỗ ngoài trời Timberman Nhập khẩu TBM06W2
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            98.000đ đ / M dài
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 25 x 140 x 2200 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="79054" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-go-ngoai-troi-timberman-nhap-khautm140k25-coffee-4-lo.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/05/san-go-ngoai-troi-timberman-tbm140k25-nhap-khau.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời Timberman Nhập Khẩu TM140K25 Coffee (4 lỗ)" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-go-ngoai-troi-timberman-nhap-khautm140k25-coffee-4-lo.html" title="Sàn gỗ ngoài trời Timberman Nhập Khẩu TM140K25 Coffee (4 lỗ)">
-                            Sàn gỗ ngoài trời Timberman Nhập Khẩu TM140K25 Coffee (4 lỗ)
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            98.000đ đ / M dài
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 25 x 140 x 2200 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                2,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                1 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                <div class="item-product" data-id="79160" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="san-go-ngoai-troi-dac-timberman-nhap-khau-tm140s25.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/06/san-go-ngoài-troi-timberman-dac-nhieu-ranh-nho-tbm06w1059.jpg?v=1.0.0" class="lazy img-fluid" alt="Sàn gỗ ngoài trời đặc Timberman Nhập Khẩu TBM06W1059" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="san-go-ngoai-troi-dac-timberman-nhap-khau-tm140s25.html" title="Sàn gỗ ngoài trời đặc Timberman Nhập Khẩu TBM06W1059">
-                            Sàn gỗ ngoài trời đặc Timberman Nhập Khẩu TBM06W1059
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            135.000đ đ / M dài
-                        </div>
-                        <div class="price-old">
-                            165.000đđ
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 25 x 140 x 2200 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-<a href="javascript:void(0)" class="view-remain-product" data-skip="8" data-size="" data-id="">
-<div class="see-more"><i class="fas fa-angle-double-right"></i> Xem thêm <span class="remain-product"><b>0</b></span> sản phẩm </div>
-</a>
-</div>
-</div>
-</div>
-</section>
-<section class="my-4 san-go-nb">
-<div class="container ">
-<div class="bg-fff pt-3 border-r-4" >
-<div class="container">
-<div class="row mb-3 no-gutters ">
-<div class="col-md-3 col-12 mb-2 mb-md-0">
-    <a href="trang-tri-noi-that.html" class="h5 font-weight-bold ">TRANG TRÍ NỘI THẤT</a>
-</div>
-<div class="col-md-9 col-12 d-lg-flex justify-content-lg-end align-self-center">
-    <div class="menu-op align-self-center mr-lg-3">
-        <!--menu mobile-->
-        <div class="d-flex flex-wrap d-lg-none">
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region active" data-region-id="1493">Trang trí nội thất bán chạy</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1491">Ốp Nano TimberMan</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1481">Giấy dán tường</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1489">ốp tường trương nhà</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1463">Thảm trải sàn 2020</a>
-            <a href="javascript:void(0)" class="link-view-more font-weight-normal mr-3 tab-region " data-region-id="1433">Rèm cửa HOT</a>
-        </div>
-        <!--menu mobile end-->
-        <!--menu pc-->
-        <div class="swiper-container d-none d-lg-block">
-            <!-- Additional required wrapper -->
-            <div class="swiper-wrapper">
-                <!-- Slides -->
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1493">Trang trí nội thất<br>bán chạy </a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1491">Ốp Nano TimberMan</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1481">Giấy dán tường</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1489">ốp tường trương nhà</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1463">Thảm trải sàn 2020</a>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <div>
-                        <a href="javascript:void(0)" class="link-view-more font-weight-normal tab-region" data-region-id="1433">Rèm cửa HOT</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!--menu pc end-->
-    </div>
-    <div class=" align-self-center  ">
-        <a href="javascript:void(0)" class="link-view-more url-old-link">Xem tất cả</a>
-    </div>
-</div>
-</div>
-<div class="_binding_product">
-<div class="set-total" data-total="8" data-id="1493" style="display:none"></div>
-<div class="row no-gutters mb-3 mb-md-0">
-    <div class="col-lg-5 col-md-12 col-sm-12 col-12">
-        <div class="item-product item-product-large">
-            <div class="image">
-                <a href="op-tuong-pvc-gia-da-jnd062799.html">
-                    <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/14/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-tam-op-tuong-pvc-gia-da-jnd62799.jpg?v=1.0.0" class="img-fluid lazy" alt="Ốp tường PVC giả đá JND062799" />
-                </a>
-            </div>
-            <div class="py-1">
-                <h5 class="title">
-                <a href="op-tuong-pvc-gia-da-jnd062799.html" title="Ốp tường PVC giả đá JND062799">
-                    Ốp tường PVC giả đá JND062799
-                </a>
-                </h5>
-                <div class="price-new">
-                    295.000đ đ / Tấm
-                </div>
-                <div class="size small mb-1">
-                    Kích thước: 2.7 x 2440 x 1220 mm
-                </div>
-                <div class="review d-flex">
-                    <div class="color-FFAB1B mr-2">
-                        4,0/5<i class="fas fa-star ml-1"></i>
-                    </div>
-                    <div class="color-828282">
-                        2 đánh giá
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-7 col-md-12 col-sm-12 col-12">
-        <div class="row no-gutters h-100 ">
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="90808" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="tam-op-nano-timerman-tbm14p94020.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/12/tam-op-nano-timberman-tbm14p94020.jpg?v=1.0.0" class="lazy img-fluid" alt="Tấm ốp Nano TimerMan TBM14P94020" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="tam-op-nano-timerman-tbm14p94020.html" title="Tấm ốp Nano TimerMan TBM14P94020">
-                            Tấm ốp Nano TimerMan TBM14P94020
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            380.000đ đ / m2
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 9 x 400 x 3000 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="90817" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="tam-op-nano-timerman-tbm14p94022.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/12/tam-op-nano-timberman-tbm14p94022.jpg?v=1.0.0" class="lazy img-fluid" alt="Tấm ốp Nano TimerMan TBM14P94022" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="tam-op-nano-timerman-tbm14p94022.html" title="Tấm ốp Nano TimerMan TBM14P94022">
-                            Tấm ốp Nano TimerMan TBM14P94022
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            380.000đ đ / m2
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 9 x 400 x 3000 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                <div class="item-product" data-id="96043" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="tam-op-4-song-phu-phim-timberman-tbm14p49022.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/08/tam-op-4song-phu-phim-tbm14p49022.jpg?v=1.0.0" class="lazy img-fluid" alt="Tấm ốp 4 sóng phủ phim TimberMan TBM14P49022" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="tam-op-4-song-phu-phim-timberman-tbm14p49022.html" title="Tấm ốp 4 sóng phủ phim TimberMan TBM14P49022">
-                            Tấm ốp 4 sóng phủ phim TimberMan TBM14P49022
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            64.000đ đ / m dài
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 3000 x 155 x 9 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="row no-gutters">
-    <div class="col-lg-5 col-md-12 col-sm-12 col-12">
-        <div class="item-product item-product-large">
-            <div class="image">
-                <a href="tam-op-nano-timerman-tbm14p94001.html">
-                    <img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/2020/07/14/he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-tam-op-nano-timberman-tbm14p94001.jpg?v=1.0.0" class="lazy img-fluid" alt="Tấm ốp Nano TimerMan TBM14P94001" />
-                </a>
-            </div>
-            <div class="py-1">
-                <h5 class="title">
-                <a href="tam-op-nano-timerman-tbm14p94001.html" title="Tấm ốp Nano TimerMan TBM14P94001">
-                    Tấm ốp Nano TimerMan TBM14P94001
-                </a>
-                </h5>
-                <div class="price-new">
-                    380.000đ đ / m2
-                </div>
-                <div class="size small mb-1">
-                    Kích thước: 9 x 400 x 3000 mm
-                </div>
-                <div class="review d-flex">
-                    <div class="color-FFAB1B mr-2">
-                        1,0/5<i class="fas fa-star ml-1"></i>
-                    </div>
-                    <div class="color-828282">
-                        1 đánh giá
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="col-lg-7 col-md-12 col-sm-12 col-12">
-        <div class="row no-gutters h-100 ">
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="85525" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="op-tuong-pvc-gia-da-jnd062705.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/08/op-tuong-pvc-gia-da-jnd062705.jpg?v=1.0.0" class="lazy img-fluid" alt="Ốp tường PVC giả đá JND062705" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="op-tuong-pvc-gia-da-jnd062705.html" title="Ốp tường PVC giả đá JND062705">
-                            Ốp tường PVC giả đá JND062705
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            295.000đ đ / Tấm
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 2.7 x 2440 x 1220 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 ">
-                <div class="item-product" data-id="85579" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="op-tuong-pvc-gia-da-jnd062711.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/08/op-tuong-pvc-gia-da-jnd062711.jpg?v=1.0.0" class="lazy img-fluid" alt="Ốp tường PVC giả đá JND062711" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="op-tuong-pvc-gia-da-jnd062711.html" title="Ốp tường PVC giả đá JND062711">
-                            Ốp tường PVC giả đá JND062711
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            295.000đ đ / Tấm
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 2.7 x 2440 x 1220 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 col-sm-4 col-6 d-none d-sm-block">
-                <div class="item-product" data-id="85580" data-properties="">
-                    <div class="tag-1">
-                    </div>
-                    <div class="image">
-                        <a href="op-tuong-pvc-gia-da-jnd062721.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/08/op-tuong-pvc-gia-da-jnd062721.jpg?v=1.0.0" class="lazy img-fluid" alt="Ốp tường PVC giả đá JND062721" /></a>
-                        <div class="tag-2">
-                            <img src="#" class="img-fluid tag-2-thumb" />
-                        </div>
-                    </div>
-                    <div class="">
-                        <h5 class="title">
-                        <a href="op-tuong-pvc-gia-da-jnd062721.html" title="Ốp tường PVC giả đá JND062721">
-                            Ốp tường PVC giả đá JND062721
-                        </a>
-                        </h5>
-                        <div class="price-new">
-                            295.000đ đ / Tấm
-                        </div>
-                        <div class="size small mb-1">
-                            Kích thước: 2.7 x 2440 x 1220 mm
-                        </div>
-                        <div class="review d-flex">
-                            <div class="color-FFAB1B mr-2">
-                                0,0/5<i class="fas fa-star ml-1"></i>
-                            </div>
-                            <div class="color-828282">
-                                0 đánh giá
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-<a href="javascript:void(0)" class="view-remain-product" data-skip="8" data-size="" data-id="">
-<div class="see-more"><i class="fas fa-angle-double-right"></i> Xem thêm <span class="remain-product"><b>0</b></span> sản phẩm </div>
-</a>
-</div>
-</div>
-</div>
-</section>
-<section class="my-4">
-<div class="container ">
-<div class="bg-fff pt-3 border-r-4">
-<div class="px-3">
-<div class="row mb-3 no-gutters ">
-<div class="col-8">
-    <a href="javascript:void(0)" class="h5 font-weight-bold ">Sản phẩm gia dụng</a>
-</div>
-<div class="col-4 text-right">
-    <a href="danh-muc/san-pham-gia-dung.html" class="link-view-more">
-        Xem thêm <i class="fas fa-chevron-right ml-1 small"></i>
-    </a>
-</div>
-</div>
-</div>
-<!-- Slider main container -->
-<div class="slide-product slide-8">
-<div class="swiper-container ">
-<!-- Additional required wrapper -->
-<div class="swiper-wrapper">
-    <!-- Slides -->
     <div class="swiper-slide">
-        <div class="item-product" data-id="96090" data-properties="">
+        <div class="item-product" data-id="91874" data-properties="">
             <div class="tag-1">
             </div>
             <div class="image">
-                <a href="may-loc-nuoc-ro-kostlich-9-loi-klwf-20092.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/05/may-loc-nuoc-ro-kostlich-9-loi-klwf-20092.png?v=1.0.0" class="img-fluid lazy" alt="Máy lọc nước RO Kostlich 9 lõi KLWF-20092" /></a>
+                <a href="nuoc-lau-san-layer-clean-huong-nuoc-hoa-5-lit.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-que-5l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương Nước Hoa 5 Lít" /></a>
                 <div class="tag-2">
                     <img src="#" class="img-fluid tag-2-thumb" />
                 </div>
             </div>
             <div class="">
                 <h5 class="title">
-                <a href="may-loc-nuoc-ro-kostlich-9-loi-klwf-20092.html" title="Máy lọc nước RO Kostlich 9 lõi KLWF-20092">
-                    Máy lọc nước RO Kostlich 9 lõi KLWF-20092
+                <a href="nuoc-lau-san-layer-clean-huong-nuoc-hoa-5-lit.html" title="Nước lau sàn Layer Clean hương Nước Hoa 5 Lít">
+                    Nước lau sàn Layer Clean hương Nước Hoa 5 Lít
                 </a>
                 </h5>
                 <div class="price-new">
-                    6.800.000đ đ / Chiếc
+                    125.000đ đ / Chai
                 </div>
                 <div class="price-old-none">
                 <pre>&nbsp;</pre>
             </div>
             <div class="size small mb-1">
-                DF: Default Value mm
+                Kích thước:  mm
             </div>
             <div class="review d-flex">
                 <div class="color-FFAB1B mr-2">
@@ -3255,330 +2939,6 @@
             </div>
         </div>
     </div>
-</div>
-<div class="swiper-slide">
-    <div class="item-product" data-id="41979" data-properties="">
-        <div class="tag-1">
-        </div>
-        <div class="image">
-            <a href="cay-lau-nha-phun-suong.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2018/01/cay-lau-nha-phun-suong-chuyen-dung.jpg?v=1.0.0" class="img-fluid lazy" alt="Cây lau nhà phun sương" /></a>
-            <div class="tag-2">
-                <img src="#" class="img-fluid tag-2-thumb" />
-            </div>
-        </div>
-        <div class="">
-            <h5 class="title">
-            <a href="cay-lau-nha-phun-suong.html" title="Cây lau nhà phun sương">
-                Cây lau nhà phun sương
-            </a>
-            </h5>
-            <div class="price-new">
-                621.000đ đ / chiếc
-            </div>
-            <div class="price-old-none">
-            <pre>&nbsp;</pre>
-        </div>
-        <div class="size small mb-1">
-            Kích thước: 80 x 203 x 650 mm
-        </div>
-        <div class="review d-flex">
-            <div class="color-FFAB1B mr-2">
-                0,0/5<i class="fas fa-star ml-1"></i>
-            </div>
-            <div class="color-828282">
-                0 đánh giá
-            </div>
-        </div>
-    </div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="item-product" data-id="71837" data-properties="">
-    <div class="tag-1">
-    </div>
-    <div class="image">
-        <a href="robot-hut-bui-thong-minh.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/05/robot-hut-bui-thong-minh.jpg?v=1.0.0" class="img-fluid lazy" alt="Robot Hút bụi Thông Minh" /></a>
-        <div class="tag-2">
-            <img src="#" class="img-fluid tag-2-thumb" />
-        </div>
-    </div>
-    <div class="">
-        <h5 class="title">
-        <a href="robot-hut-bui-thong-minh.html" title="Robot Hút bụi Thông Minh">
-            Robot Hút bụi Thông Minh
-        </a>
-        </h5>
-        <div class="price-new">
-            7.900.000đ đ / Bộ
-        </div>
-        <div class="price-old-none">
-        <pre>&nbsp;</pre>
-    </div>
-    <div class="size small mb-1">
-        Kích thước: 78 x 300 x 300 mm
-    </div>
-    <div class="review d-flex">
-        <div class="color-FFAB1B mr-2">
-            0,0/5<i class="fas fa-star ml-1"></i>
-        </div>
-        <div class="color-828282">
-            0 đánh giá
-        </div>
-    </div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="item-product" data-id="71843" data-properties="">
-<div class="tag-1">
-</div>
-<div class="image">
-    <a href="thung-rac-tu-dong.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2019/05/thung-rac-tu-dong.jpg?v=1.0.0" class="img-fluid lazy" alt="Thùng Rác tự động thông minh" /></a>
-    <div class="tag-2">
-        <img src="#" class="img-fluid tag-2-thumb" />
-    </div>
-</div>
-<div class="">
-    <h5 class="title">
-    <a href="thung-rac-tu-dong.html" title="Thùng Rác tự động thông minh">
-        Thùng Rác tự động thông minh
-    </a>
-    </h5>
-    <div class="price-new">
-        2.300.000đ đ / Cái
-    </div>
-    <div class="price-old-none">
-    <pre>&nbsp;</pre>
-</div>
-<div class="size small mb-1">
-    Kích thước:  mm
-</div>
-<div class="review d-flex">
-    <div class="color-FFAB1B mr-2">
-        0,0/5<i class="fas fa-star ml-1"></i>
-    </div>
-    <div class="color-828282">
-        0 đánh giá
-    </div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="item-product" data-id="91863" data-properties="">
-<div class="tag-1">
-</div>
-<div class="image">
-<a href="nuoc-lau-san-layer-clean-huong-gio-bien-125l.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-gio-bien-125l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương gió Biển 1,25L" /></a>
-<div class="tag-2">
-    <img src="#" class="img-fluid tag-2-thumb" />
-</div>
-</div>
-<div class="">
-<h5 class="title">
-<a href="nuoc-lau-san-layer-clean-huong-gio-bien-125l.html" title="Nước lau sàn Layer Clean hương gió Biển 1,25L">
-    Nước lau sàn Layer Clean hương gió Biển 1,25L
-</a>
-</h5>
-<div class="price-new">
-    35.000đ đ / Chai
-</div>
-<div class="price-old-none">
-<pre>&nbsp;</pre>
-</div>
-<div class="size small mb-1">
-Kích thước:  mm
-</div>
-<div class="review d-flex">
-<div class="color-FFAB1B mr-2">
-    0,0/5<i class="fas fa-star ml-1"></i>
-</div>
-<div class="color-828282">
-    0 đánh giá
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="item-product" data-id="91870" data-properties="">
-<div class="tag-1">
-</div>
-<div class="image">
-<a href="nuoc-lau-san-layer-clean-huong-que-125l.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-que-125l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương Quế 1,25L" /></a>
-<div class="tag-2">
-<img src="#" class="img-fluid tag-2-thumb" />
-</div>
-</div>
-<div class="">
-<h5 class="title">
-<a href="nuoc-lau-san-layer-clean-huong-que-125l.html" title="Nước lau sàn Layer Clean hương Quế 1,25L">
-Nước lau sàn Layer Clean hương Quế 1,25L
-</a>
-</h5>
-<div class="price-new">
-38.500đ đ / Chai
-</div>
-<div class="price-old-none">
-<pre>&nbsp;</pre>
-</div>
-<div class="size small mb-1">
-Kích thước:  mm
-</div>
-<div class="review d-flex">
-<div class="color-FFAB1B mr-2">
-0,0/5<i class="fas fa-star ml-1"></i>
-</div>
-<div class="color-828282">
-0 đánh giá
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="item-product" data-id="91871" data-properties="">
-<div class="tag-1">
-</div>
-<div class="image">
-<a href="nuoc-lau-san-layer-clean-huong-nuoc-hoa-125l.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-nuoc-hoa-125l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương nước Hoa 1,25L" /></a>
-<div class="tag-2">
-<img src="#" class="img-fluid tag-2-thumb" />
-</div>
-</div>
-<div class="">
-<h5 class="title">
-<a href="nuoc-lau-san-layer-clean-huong-nuoc-hoa-125l.html" title="Nước lau sàn Layer Clean hương nước Hoa 1,25L">
-Nước lau sàn Layer Clean hương nước Hoa 1,25L
-</a>
-</h5>
-<div class="price-new">
-35.000đ đ / Chai
-</div>
-<div class="price-old-none">
-<pre>&nbsp;</pre>
-</div>
-<div class="size small mb-1">
-Kích thước:  mm
-</div>
-<div class="review d-flex">
-<div class="color-FFAB1B mr-2">
-0,0/5<i class="fas fa-star ml-1"></i>
-</div>
-<div class="color-828282">
-0 đánh giá
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="item-product" data-id="91872" data-properties="">
-<div class="tag-1">
-</div>
-<div class="image">
-<a href="nuoc-lau-san-layer-clean-huong-gio-bien-5lit.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-gio-bien-5l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương gió Biển 5Lít" /></a>
-<div class="tag-2">
-<img src="#" class="img-fluid tag-2-thumb" />
-</div>
-</div>
-<div class="">
-<h5 class="title">
-<a href="nuoc-lau-san-layer-clean-huong-gio-bien-5lit.html" title="Nước lau sàn Layer Clean hương gió Biển 5Lít">
-Nước lau sàn Layer Clean hương gió Biển 5Lít
-</a>
-</h5>
-<div class="price-new">
-125.000đ đ / Chai
-</div>
-<div class="price-old-none">
-<pre>&nbsp;</pre>
-</div>
-<div class="size small mb-1">
-Kích thước:  mm
-</div>
-<div class="review d-flex">
-<div class="color-FFAB1B mr-2">
-0,0/5<i class="fas fa-star ml-1"></i>
-</div>
-<div class="color-828282">
-0 đánh giá
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="item-product" data-id="91873" data-properties="">
-<div class="tag-1">
-</div>
-<div class="image">
-<a href="nuoc-lau-san-layer-clean-huong-que-5-lit.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-que-5l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương Quế 5 Lít" /></a>
-<div class="tag-2">
-<img src="#" class="img-fluid tag-2-thumb" />
-</div>
-</div>
-<div class="">
-<h5 class="title">
-<a href="nuoc-lau-san-layer-clean-huong-que-5-lit.html" title="Nước lau sàn Layer Clean hương Quế 5 Lít">
-Nước lau sàn Layer Clean hương Quế 5 Lít
-</a>
-</h5>
-<div class="price-new">
-137.000đ đ / Chai
-</div>
-<div class="price-old-none">
-<pre>&nbsp;</pre>
-</div>
-<div class="size small mb-1">
-Kích thước:  mm
-</div>
-<div class="review d-flex">
-<div class="color-FFAB1B mr-2">
-0,0/5<i class="fas fa-star ml-1"></i>
-</div>
-<div class="color-828282">
-0 đánh giá
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="swiper-slide">
-<div class="item-product" data-id="91874" data-properties="">
-<div class="tag-1">
-</div>
-<div class="image">
-<a href="nuoc-lau-san-layer-clean-huong-nuoc-hoa-5-lit.html"><img src="images/grayffa5.jpg?v=LPdlHmqT_DsfScf_Vi84uWTSfQQ6uYv1iXL1Wuy6VxM" data-src="https://cms.janhome.vn//uploads/thumb/2020/01/nuoc-lau-san-layer-clean-huong-que-5l.jpg?v=1.0.0" class="img-fluid lazy" alt="Nước lau sàn Layer Clean hương Nước Hoa 5 Lít" /></a>
-<div class="tag-2">
-<img src="#" class="img-fluid tag-2-thumb" />
-</div>
-</div>
-<div class="">
-<h5 class="title">
-<a href="nuoc-lau-san-layer-clean-huong-nuoc-hoa-5-lit.html" title="Nước lau sàn Layer Clean hương Nước Hoa 5 Lít">
-Nước lau sàn Layer Clean hương Nước Hoa 5 Lít
-</a>
-</h5>
-<div class="price-new">
-125.000đ đ / Chai
-</div>
-<div class="price-old-none">
-<pre>&nbsp;</pre>
-</div>
-<div class="size small mb-1">
-Kích thước:  mm
-</div>
-<div class="review d-flex">
-<div class="color-FFAB1B mr-2">
-0,0/5<i class="fas fa-star ml-1"></i>
-</div>
-<div class="color-828282">
-0 đánh giá
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 <!-- If we need navigation buttons -->
@@ -3626,126 +2986,126 @@ Xem thêm <i class="fas fa-chevron-right ml-1 small"></i>
 <div class="swiper-slide">
 <div class="item">
 <div class="video-img">
-<a href="5-phut-moi-ngay-voi-janhome-trang-tri-phong-voi-moc-treo-binh-hoa-handmade.html">
-<img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="https://cms.janhome.vn//uploads/thumb/2017/06/5-phut-moi-ngay-voi-janhome-trang-tri.jpg" />
-<div class="play-yt">
-<img src="images/youtube3860.svg?v=1" class="">
-</div>
-</a>
+    <a href="5-phut-moi-ngay-voi-janhome-trang-tri-phong-voi-moc-treo-binh-hoa-handmade.html">
+        <img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="https://cms.janhome.vn//uploads/thumb/2017/06/5-phut-moi-ngay-voi-janhome-trang-tri.jpg" />
+        <div class="play-yt">
+            <img src="images/youtube3860.svg?v=1" class="">
+        </div>
+    </a>
 </div>
 <h5 class="title">
 <a rel="nofollow" href="javascript:void(0)" title="5 phút mỗi ngày với JANHOME: Trang trí phòng với Móc treo bình hoa handmade">5 phút mỗi ngày với JANHOME: Trang trí phòng với Móc treo bình hoa handmade</a>
 </h5>
 <div class="time">
-16/06/2017 04:31;
+    16/06/2017 04:31;
 </div>
 </div>
 </div>
 <div class="swiper-slide">
 <div class="item">
 <div class="video-img">
-<a href="-phut-moi-ngay-voi-janhome-trang-tri-phong-voi-day-den-tu-tao.html">
-<img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2020/06/27/video-2-3-4.jpg" />
-<div class="play-yt">
-<img src="images/youtube3860.svg?v=1" class="">
-</div>
-</a>
+    <a href="-phut-moi-ngay-voi-janhome-trang-tri-phong-voi-day-den-tu-tao.html">
+        <img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2020/06/27/video-2-3-4.jpg" />
+        <div class="play-yt">
+            <img src="images/youtube3860.svg?v=1" class="">
+        </div>
+    </a>
 </div>
 <h5 class="title">
 <a rel="nofollow" href="javascript:void(0)" title="5 phút mỗi ngày với JANHOME: Trang trí phòng với Dây Đèn tự tạo">5 phút mỗi ngày với JANHOME: Trang trí phòng với Dây Đèn tự tạo</a>
 </h5>
 <div class="time">
-15/06/2017 02:00;
+    15/06/2017 02:00;
 </div>
 </div>
 </div>
 <div class="swiper-slide">
 <div class="item">
 <div class="video-img">
-<a href="5-phut-moi-ngay-voi-janhome-trang-tri-phong-voi-gia-treo-anh-va-hop-cay-day-thung-handmade.html">
-<img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2017/06/maxresdefault-1.jpg" />
-<div class="play-yt">
-<img src="images/youtube3860.svg?v=1" class="">
-</div>
-</a>
+    <a href="5-phut-moi-ngay-voi-janhome-trang-tri-phong-voi-gia-treo-anh-va-hop-cay-day-thung-handmade.html">
+        <img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2017/06/maxresdefault-1.jpg" />
+        <div class="play-yt">
+            <img src="images/youtube3860.svg?v=1" class="">
+        </div>
+    </a>
 </div>
 <h5 class="title">
 <a rel="nofollow" href="javascript:void(0)" title="5 phút mỗi ngày với JANHOME: Trang trí phòng với Giá treo ảnh và Hộp cây dây thừng">5 phút mỗi ngày với JANHOME: Trang trí phòng với Giá treo ảnh và Hộp cây dây thừng</a>
 </h5>
 <div class="time">
-15/06/2017 01:56;
+    15/06/2017 01:56;
 </div>
 </div>
 </div>
 <div class="swiper-slide">
 <div class="item">
 <div class="video-img">
-<a href="5-phut-moi-ngay-voi-janhome-trang-tri-phong-voi-gia-treo-tuong-bang-que-kem.html">
-<img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2017/06/1-1-1.jpg" />
-<div class="play-yt">
-<img src="images/youtube3860.svg?v=1" class="">
-</div>
-</a>
+    <a href="5-phut-moi-ngay-voi-janhome-trang-tri-phong-voi-gia-treo-tuong-bang-que-kem.html">
+        <img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2017/06/1-1-1.jpg" />
+        <div class="play-yt">
+            <img src="images/youtube3860.svg?v=1" class="">
+        </div>
+    </a>
 </div>
 <h5 class="title">
 <a rel="nofollow" href="javascript:void(0)" title="5 phút mỗi ngày với JANHOME: Trang trí phòng với Giá treo tường bằng que kem">5 phút mỗi ngày với JANHOME: Trang trí phòng với Giá treo tường bằng que kem</a>
 </h5>
 <div class="time">
-15/06/2017 01:50;
+    15/06/2017 01:50;
 </div>
 </div>
 </div>
 <div class="swiper-slide">
 <div class="item">
 <div class="video-img">
-<a href="5-phut-moi-ngay-voi-janhome-trang-tri-can-phong-voi-hop-dung-do-tai-che.html">
-<img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2017/05/maxresdefault-3.jpg" />
-<div class="play-yt">
-<img src="images/youtube3860.svg?v=1" class="">
-</div>
-</a>
+    <a href="5-phut-moi-ngay-voi-janhome-trang-tri-can-phong-voi-hop-dung-do-tai-che.html">
+        <img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2017/05/maxresdefault-3.jpg" />
+        <div class="play-yt">
+            <img src="images/youtube3860.svg?v=1" class="">
+        </div>
+    </a>
 </div>
 <h5 class="title">
 <a rel="nofollow" href="javascript:void(0)" title="5 phút mỗi ngày với JANHOME: Trang trí căn phòng với Hộp đựng đồ tái chế">5 phút mỗi ngày với JANHOME: Trang trí căn phòng với Hộp đựng đồ tái chế</a>
 </h5>
 <div class="time">
-04/05/2017 07:29;
+    04/05/2017 07:29;
 </div>
 </div>
 </div>
 <div class="swiper-slide">
 <div class="item">
 <div class="video-img">
-<a href="5-phut-moi-ngay-voi-janhome-trang-tri-phong-ngu-voi-da-thuy-tinh.html">
-<img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2017/05/maxresdefault-2.jpg" />
-<div class="play-yt">
-<img src="images/youtube3860.svg?v=1" class="">
-</div>
-</a>
+    <a href="5-phut-moi-ngay-voi-janhome-trang-tri-phong-ngu-voi-da-thuy-tinh.html">
+        <img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2017/05/maxresdefault-2.jpg" />
+        <div class="play-yt">
+            <img src="images/youtube3860.svg?v=1" class="">
+        </div>
+    </a>
 </div>
 <h5 class="title">
 <a rel="nofollow" href="javascript:void(0)" title="5 phút mỗi ngày với JANHOME: trang trí phòng ngủ với đá thủy tinh">5 phút mỗi ngày với JANHOME: trang trí phòng ngủ với đá thủy tinh</a>
 </h5>
 <div class="time">
-04/05/2017 07:09;
+    04/05/2017 07:09;
 </div>
 </div>
 </div>
 <div class="swiper-slide">
 <div class="item">
 <div class="video-img">
-<a href="5-phut-moi-ngay-voi-janhome-trang-tri-phong-voi-den-nen-hoa-sen.html">
-<img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2017/05/maxresdefault-4.jpg" />
-<div class="play-yt">
-<img src="images/youtube3860.svg?v=1" class="">
-</div>
-</a>
+    <a href="5-phut-moi-ngay-voi-janhome-trang-tri-phong-voi-den-nen-hoa-sen.html">
+        <img src="images/gray3860.jpg?v=1" class="img-fluid lazy w-100" data-src="../cms.janhome.vn/uploads/thumb/2017/05/maxresdefault-4.jpg" />
+        <div class="play-yt">
+            <img src="images/youtube3860.svg?v=1" class="">
+        </div>
+    </a>
 </div>
 <h5 class="title">
 <a rel="nofollow" href="javascript:void(0)" title="5 phút mỗi ngày với JANHOME trang trí phòng với đèn nến hoa sen">5 phút mỗi ngày với JANHOME trang trí phòng với đèn nến hoa sen</a>
 </h5>
 <div class="time">
-04/05/2017 06:54;
+    04/05/2017 06:54;
 </div>
 </div>
 </div>
@@ -3766,49 +3126,58 @@ Xem thêm <i class="fas fa-chevron-right ml-1 small"></i>
 <div class="cust-bg-use">
 <div class="row">
 <div class="col-xl-7 col-md-6 col-sm-12 col-12">
-@foreach ($news_big as $key => $news)  
+@foreach ($news_arr as $key => $news)
+@if($key == 1)
+@break
+@endif
 <div class="item">
 <a href="4-dieu-ban-nhat-dinh-phai-biet-truoc-khi-chon-mua-san-go-cong-nghiep-cho-gia-dinh.html">
-<img src="{{$news->getImage()}}" data-src="https://cms.janhome.vn//uploads/2020/08/17/4-dieu-ban-can-biet-truoc-khi-lua-chon-san-go-cong-nghiep-cho-gia-dinh.jpg?v=1.0.0" alt="4 điều bạn nhất định phải biết trước khi chọn mua sàn gỗ công nghiệp cho gia đình" class="img-fluid lazy" width="100%" height="auto" />
+    <img src="{{$news->getImage()}}" data-src="https://cms.janhome.vn//uploads/2020/08/17/4-dieu-ban-can-biet-truoc-khi-lua-chon-san-go-cong-nghiep-cho-gia-dinh.jpg?v=1.0.0" alt="4 điều bạn nhất định phải biết trước khi chọn mua sàn gỗ công nghiệp cho gia đình" class="img-fluid lazy" width="100%" height="auto" />
 </a>
-<a href="4-dieu-ban-nhat-dinh-phai-biet-truoc-khi-chon-mua-san-go-cong-nghiep-cho-gia-dinh.html" title="4 điều bạn nhất định phải biết trước khi chọn mua sàn gỗ công nghiệp cho gia đình" class="">
-<h6 class="title h5 mt-3 ">
-{!!$news->title!!}
-</h6>
+<a href="{!! route('news.detail', ['alias' => $news->alias, 'id' => $news->id]) !!}" title="4 điều bạn nhất định phải biết trước khi chọn mua sàn gỗ công nghiệp cho gia đình" class="">
+    <h6 class="title h5 mt-3 ">
+    {!!$news->title!!}
+    </h6>
 </a>
 <div class="des">
-<p>Nếu kh&ocirc;ng hiểu r&otilde; về s&agrave;n gỗ c&ocirc;ng nghiệp, kh&aacute;ch h&agrave;ng sẽ dễ mua phải v&aacute;n s&agrave;n c&ocirc;ng nghiệp kh&ocirc;ng ph&ugrave; hợp với nhu cầu, mục đ&iacute;ch sử dụng của m&igrave;nh.&nbsp;</p>
+    <p>Nếu kh&ocirc;ng hiểu r&otilde; về s&agrave;n gỗ c&ocirc;ng nghiệp, kh&aacute;ch h&agrave;ng sẽ dễ mua phải v&aacute;n s&agrave;n c&ocirc;ng nghiệp kh&ocirc;ng ph&ugrave; hợp với nhu cầu, mục đ&iacute;ch sử dụng của m&igrave;nh.&nbsp;</p>
 </div>
 <div class="text-right mb-3">
-<a href="4-dieu-ban-nhat-dinh-phai-biet-truoc-khi-chon-mua-san-go-cong-nghiep-cho-gia-dinh.html" class="link-view-more">
-Đọc tiếp<i class="fas fa-chevron-right ml-1 small"></i>
-</a>
+    <a href="4-dieu-ban-nhat-dinh-phai-biet-truoc-khi-chon-mua-san-go-cong-nghiep-cho-gia-dinh.html" class="link-view-more">
+        Đọc tiếp<i class="fas fa-chevron-right ml-1 small"></i>
+    </a>
 </div>
 </div>
 @endforeach
 </div>
 <div class="col-xl-5 col-md-6 col-sm-12 col-12 pl-md-0">
 <div class="list-right">
-@foreach ($news_arr as $key => $news)  
+@foreach ($news_arr as $key => $news)
+@if($key == 0)
+@continue
+@endif
+@if($key == 6)
+@break
+@endif
 <div class="item">
-<div class="row" style="margin-bottom: 20px">
-<div class="col-xl-3 col-md-4 col-sm-3 col-3">
-<div class="image">
-<a href="khuyen-mai-thang-8-nhieu-bat-ngo-tai-janhome-he-thong-ban-le-vat-lieu-hoan-thien-tai-kho.html" title="Khuyến mãi tháng 8 nhiều bất ngờ tại JanHome, hệ thống bán lẻ vật liệu hoàn thiện tại kho.">
-<img src="{{$news->getImage()}}" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/03/khuyen-mai-thang-8-2020-janhome.jpg?v=1.0.0" class="img-fluid lazy" alt="Khuyến mãi tháng 8 nhiều bất ngờ tại JanHome, hệ thống bán lẻ vật liệu hoàn thiện tại kho." />
-</a>
-</div>
-</div>
-<div class="col-xl-9 col-md-8 col-sm-9 col-9 pl-0">
-<h6 class="title">
-<a href="khuyen-mai-thang-8-nhieu-bat-ngo-tai-janhome-he-thong-ban-le-vat-lieu-hoan-thien-tai-kho.html" title="Khuyến mãi tháng 8 nhiều bất ngờ tại JanHome, hệ thống bán lẻ vật liệu hoàn thiện tại kho.">{!!$news->title!!}</a>
-</h6>
-<div class="time">
-03/08/2020 05:29
-</div>
-</div>
-</div>
-@endforeach
+    <div class="row" style="margin-bottom: 20px">
+        <div class="col-xl-3 col-md-4 col-sm-3 col-3">
+            <div class="image">
+                <a href="khuyen-mai-thang-8-nhieu-bat-ngo-tai-janhome-he-thong-ban-le-vat-lieu-hoan-thien-tai-kho.html" title="Khuyến mãi tháng 8 nhiều bất ngờ tại JanHome, hệ thống bán lẻ vật liệu hoàn thiện tại kho.">
+                    <img src="{{$news->getImage()}}" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/03/khuyen-mai-thang-8-2020-janhome.jpg?v=1.0.0" class="img-fluid lazy" alt="Khuyến mãi tháng 8 nhiều bất ngờ tại JanHome, hệ thống bán lẻ vật liệu hoàn thiện tại kho." />
+                </a>
+            </div>
+        </div>
+        <div class="col-xl-9 col-md-8 col-sm-9 col-9 pl-0">
+            <h6 class="title">
+            <a href="{!! route('news.detail', ['alias' => $news->alias, 'id' => $news->id]) !!}" title="Khuyến mãi tháng 8 nhiều bất ngờ tại JanHome, hệ thống bán lẻ vật liệu hoàn thiện tại kho.">{!!$news->title!!}</a>
+            </h6>
+            <div class="time">
+                03/08/2020 05:29
+            </div>
+        </div>
+    </div>
+    @endforeach
 </div>
 </div>
 </div>
@@ -4087,34 +3456,34 @@ Chọn Showroom
 <!--Menu-->
 <div class="dropdown-menu dropdown-primary cust-popbh" id="your-custom-id">
 <label class="label-checkbox mb-2 pr-4 dropdown-item cust-drop-item">
-Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
-<input type="checkbox" checked />
-<span class="checkmark"></span>
+    Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
+    <input type="checkbox" checked />
+    <span class="checkmark"></span>
 </label>
 <label class="label-checkbox mb-2 pr-4 dropdown-item cust-drop-item">
-Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
-<input type="checkbox" />
-<span class="checkmark"></span>
+    Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
+    <input type="checkbox" />
+    <span class="checkmark"></span>
 </label>
 <label class="label-checkbox mb-2 pr-4 dropdown-item cust-drop-item">
-Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
-<input type="checkbox" />
-<span class="checkmark"></span>
+    Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
+    <input type="checkbox" />
+    <span class="checkmark"></span>
 </label>
 <label class="label-checkbox mb-2 pr-4 dropdown-item cust-drop-item">
-Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
-<input type="checkbox" />
-<span class="checkmark"></span>
+    Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
+    <input type="checkbox" />
+    <span class="checkmark"></span>
 </label>
 <label class="label-checkbox mb-2 pr-4 dropdown-item cust-drop-item">
-Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
-<input type="checkbox" />
-<span class="checkmark"></span>
+    Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
+    <input type="checkbox" />
+    <span class="checkmark"></span>
 </label>
 <label class="label-checkbox mb-2 pr-4 dropdown-item cust-drop-item">
-Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
-<input type="checkbox" />
-<span class="checkmark"></span>
+    Tầng 3 Nhà C2 Vinaconex 1 289A Khuất Duy Tiến, Q Cầu giấy, TP Hà Nội.(Bên cạnh Big C Hồ Gươm)
+    <input type="checkbox" />
+    <span class="checkmark"></span>
 </label>
 </div>
 </div>
@@ -4184,14 +3553,14 @@ Xác nhận
 <p class="_picking_address"></p>
 <div class="d-flex">
 <label class="label-checkbox mb-2 pr-4">
-Anh
-<input type="radio" name="_cus_gender" checked required />
-<span class="checkmark"></span>
+    Anh
+    <input type="radio" name="_cus_gender" checked required />
+    <span class="checkmark"></span>
 </label>
 <label class="label-checkbox  mb-2 ">
-Chị
-<input type="radio" name="_cus_gender" />
-<span class="checkmark"></span>
+    Chị
+    <input type="radio" name="_cus_gender" />
+    <span class="checkmark"></span>
 </label>
 </div>
 <div class="form-group">
@@ -4205,10 +3574,10 @@ Chị
 </div>
 <div class="customer form-control">
 <div class="cus-name">
-<label for="name-input" class="cus-ic-box">
-<i class="fal fa-calendar-alt "></i>
-</label>
-<input type="text" name="txtName" id="txt-time-input" class="w-100 ip-css" required>
+    <label for="name-input" class="cus-ic-box">
+        <i class="fal fa-calendar-alt "></i>
+    </label>
+    <input type="text" name="txtName" id="txt-time-input" class="w-100 ip-css" required>
 </div>
 </div>
 </div>
@@ -4274,12 +3643,12 @@ logged_out_greeting="Janhome xin chào ! Chúng tôi có thể giúp gì cho b�
 </div>
 </div>
 <div class="banner-fixed-left">
-<a rel="nofollow" href="san-go-floorart.html">
+<a rel="nofollow" href="javascript:void(0)">
 <img src="{!!asset('cms.janhome.vn/uploads/2020/08/25/he-thong-ban-le-vat-lieu-hoan-thien-tai-kho-janhome-banner-san-go-han-quoc-floorarte209.jpg?v=1.0.0" class="img-fluid w-100')!!}" />
 </a>
 </div>
 <div class="banner-fixed-right">
-<a rel="nofollow" href="chi-nhanh.html">
+<a rel="nofollow" href="javascript:void(0)">
 <img src="{!!asset('cms.janhome.vn/uploads/2020/06/03/banner-doc-1-fixe209.jpg?v=1.0.0')!!}" class="img-fluid w-100" />
 </a>
 </div>

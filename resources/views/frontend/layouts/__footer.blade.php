@@ -4,7 +4,7 @@
 <div class="col-xl-4 col-md-4 col-sm-4 col-12">
 <div class="d-flex py-3 justify-content-center">
 <div class="image align-self-center">
-<img src="{!!asset('cms.janhome.vn/uploads/2020/04/28/shipment-international 2.png?v=1.0.0')!!}" data-src="https://cms.janhome.vn//uploads/2020/04/28/shipment-international 2.png?v=1.0.0" class="img-fluid lazy" />
+<img src="{!!asset('cms.janhome.vn/uploads/2020/04/28/shipment-international 2.png?v=1.0.0')!!}" data-src="https://cms.janhome.vn//uploads/2020/04/28/shipment-international 2.png?v=1.0.0')!!}" class="img-fluid lazy" />
 </div>
 <div class="px-3 align-self-center">
 <label>Xuất xứ</label>
@@ -17,7 +17,7 @@ Bảo đảm 100% xuất xứ
 <div class="col-xl-4 col-md-4 col-sm-4 col-12">
 <div class="d-flex py-3 justify-content-center">
 <div class="image align-self-center">
-<img src="{!!asset('cms.janhome.vn//uploads/2020/04/28/Group.png?v=1.0.0')!!}" data-src="https://cms.janhome.vn//uploads/2020/04/28/Group.png?v=1.0.0" class="img-fluid lazy" />
+<img src="{!!asset('cms.janhome.vn//uploads/2020/04/28/Group.png?v=1.0.0')!!}" data-src="https://cms.janhome.vn//uploads/2020/04/28/Group.png?v=1.0.0')!!}" class="img-fluid lazy" />
 </div>
 <div class="px-3 align-self-center">
 <label>Hỗ trợ 24/7</label>
@@ -30,7 +30,7 @@ Hệ thống toàn quốc
 <div class="col-xl-4 col-md-4 col-sm-4 col-12">
 <div class="d-flex py-3 justify-content-center">
 <div class="image align-self-center">
-<img src="{!!asset('cms.janhome.vn//uploads/2020/04/28/saving-piggy-dollars 3.png?v=1.0.0')!!}" data-src="https://cms.janhome.vn//uploads/2020/04/28/saving-piggy-dollars 3.png?v=1.0.0" class="img-fluid lazy" />
+<img src="{!!asset('cms.janhome.vn//uploads/2020/04/28/saving-piggy-dollars 3.png?v=1.0.0')!!}" data-src="https://cms.janhome.vn//uploads/2020/04/28/saving-piggy-dollars 3.png?v=1.0.0')!!}" class="img-fluid lazy" />
 </div>
 <div class="px-3 align-self-center">
 <label>Loại hình dịch vụ</label>
@@ -86,10 +86,10 @@ Nhập khẩu - phân phối - bán lẻ trực tiếp
 <h4 class="title-menu mb-4">Kết nối với chúng tôi</h4>
 <div class="social">
 <a rel="nofollow" href="javascript:void(0)" title="Facebook">
-<img src="images/fb-cir-ice209.svg?v=1.0.0" class="img-fluid mr-2" />
+<img src="{!!asset('images/fb-cir-ice209.svg?v=1.0.0')!!}" class="img-fluid mr-2" />
 </a>
 <a rel="nofollow" href="javascript:void(0)" title="Twitter">
-<img src="images/twitter-ice209.svg?v=1.0.0" class="img-fluid" />
+<img src="{!!asset('images/twitter-ice209.svg?v=1.0.0')!!}" class="img-fluid" />
 </a>
 </div>
 </div>
@@ -116,11 +116,11 @@ QQ18 Ba Vì, Cư xá Bắc Hải, Phường 15, Quận 10, Hồ Chí Minh
 </div>
 </div>
 <div class="col-lg-2 col-md-2 col-sm-4 col-4  text-center">
-<a rel="nofollow" href='javascript:void(0)'><img alt='' title='' src='images/logoSaleNoti3860.png?v=1' class="img-fluid" /></a>
+<a rel="nofollow" href='javascript:void(0)'><img alt='' title='' src="{!!asset('images/logoSaleNoti3860.png?v=1')!!}" class="img-fluid" /></a>
 </div>
 <div class="col-lg-2 col-md-2 col-sm-4 col-4 text-center">
 <a href="javascript:void(0)">
-<img src="images/dmcae209.png?v=1.0.0" class="img-fluid" />
+<img src="{!!asset('images/dmcae209.png?v=1.0.0')!!}" class="img-fluid" />
 </a>
 </div>
 </div>
@@ -128,16 +128,16 @@ QQ18 Ba Vì, Cư xá Bắc Hải, Phường 15, Quận 10, Hồ Chí Minh
 <div class="bottom-footer py-3 text-right">
 <div class="container">
 <a rel="nofollow" href="javascript:void(0)">
-<img src="images/visa-ice209.svg?v=1.0.0" class="img-fluid" />
+<img src="{!!asset('images/visa-ice209.svg?v=1.0.0')!!}" class="img-fluid" />
 </a>
 <a rel="nofollow" href="javascript:void(0)">
-<img src="images/paypal-ice209.svg?v=1.0.0" class="img-fluid" />
+<img src="{!!asset('images/paypal-ice209.svg?v=1.0.0')!!}" class="img-fluid" />
 </a>
 <a rel="nofollow" href="javascript:void(0)">
-<img src="images/master-ice209.svg?v=1.0.0" class="img-fluid" />
+<img src="{!!asset('images/master-ice209.svg?v=1.0.0')!!}" class="img-fluid" />
 </a>
 <a rel="nofollow" href="javascript:void(0)">
-<img src="images/express-ice209.svg?v=1.0.0" class="img-fluid" />
+<img src="{!!asset('images/express-ice209.svg?v=1.0.0')!!}" class="img-fluid" />
 </a>
 </div>
 </div>
@@ -164,3 +164,4 @@ QQ18 Ba Vì, Cư xá Bắc Hải, Phường 15, Quận 10, Hồ Chí Minh
 <script type="text/javascript" src="{!!asset('js/daterangepicker8d85.js?v=iOVs1FytPbiP3HcnhtFMzo0MwYebwD5OVr6Rnf2a0ik')!!}"></script>
 <script type="text/javascript" src="{!!asset('js/paginationJS270f.js?v=_GywrNV0fMW9l0mnOa6Gz8zbqp7_d5F3yBpGH6xQmEM')!!}"></script>
 <script type="text/javascript" src="{!!asset('js/blogDetailController16e5.js?v=jeDzoTlSznrquScD36vjEo8fS4cC-UKkPnTH1HmuiwQ')!!}"></script>
+<script type="text/javascript" src="{!!asset('js/productDetailController88a2.js?v=QePaWHwNjOh9moaVkc8tT2VLuGo6eQ_JR_aZ76R4hY8')!!}"></script>

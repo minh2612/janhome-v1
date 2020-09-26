@@ -24,16 +24,19 @@ class FrontendController extends Controller {
                 $total += ($val['price'] * $val['quantity']);
             }
         }
+
         $product_new = $this->productRepo->readNewProduct($limit = 10);
-        $hot_products_slide = $this->productRepo->readHlProduct($limit = 3);
-        $product_hl = $this->productRepo->readHlProduct($limit = 10);
-        $product_cs = $this->productRepo->readCsProduct($limit = 10);
-        $news_big = $this->newsRepo->getAllNews($limit = 1);
-        $news_arr = $this->newsRepo->getAllNews($limit = 6);
+        $hot_products_slide = $this->productRepo->readHlProduct($limit = 4);
+        $product_hl = $this->productRepo->readHlProduct($limit = 6);
+        $industry = $this->productRepo->getIndustryProduct($limit = 8);
+        $nature = $this->productRepo->getIndustryProduct($limit = 8);
+        $sale = $this->productRepo->getIndustryProduct($limit = 6);
+        $plastic = $this->productRepo->getIndustryProduct($limit = 8);
+        $news_arr = $this->newsRepo->getAllNews($limit = 7);
         if (config('global.device') != 'pc') {
-            return view('mobile/home/index', compact('total','hot_products_slide','product_new', 'product_hl', 'product_cs', 'news_big', 'news_arr'));
+            return view('mobile/home/index', compact('total','hot_products_slide','product_new', 'product_hl', 'industry', 'nature', 'sale', 'plastic', 'news_arr'));
         } else {
-            return view('frontend/home/index', compact('total','hot_products_slide','product_new', 'product_hl', 'product_cs', 'news_big', 'news_arr'));
+            return view('frontend/home/index', compact('total','hot_products_slide','product_new', 'product_hl', 'industry', 'nature' , 'sale', 'plastic', 'news_arr'));
         }
     }
     

@@ -22,4 +22,3 @@
     </body>
     @yield('script')   
 </html>
-

@@ -50,7 +50,7 @@ class NewsRepository extends AbstractRepository {
         return $query->where('news.status', 1)->orderBy('news.created_at', 'desc')->paginate($limit);
     }
 
-    public function getAllNews($limit = 10) {
+    public function getAllNews($limit ) {
         return $this->model->where('status', 1)->where('post_schedule' ,'<=', Carbon::now('Asia/Ho_Chi_Minh'))->orderBy('post_schedule', 'desc')->take($limit)->get();
     }
 
@@ -68,6 +68,10 @@ class NewsRepository extends AbstractRepository {
      public function getConfig($id) {
         return $this->model->select('title', 'description','keywords', 'meta_title', 'meta_keywords', 'meta_description')->where('id', $id)->first();
     }
+    public function getDetailNews($id) {
 
+        return $this->model->where('id', $id)->get();
+
+    }
 
 }

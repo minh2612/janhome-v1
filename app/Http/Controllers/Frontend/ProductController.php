@@ -94,7 +94,6 @@ class ProductController extends Controller {
     }
     public function detail(Request $request,$alias,$id) {
             $detail_products=  $this->productRepo->getDetailProduct($id);
-            
             return view('frontend/product/detail',compact('detail_products'));
         }      
 

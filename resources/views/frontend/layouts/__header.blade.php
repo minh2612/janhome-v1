@@ -6,12 +6,12 @@
                 <div class="swiper-wrapper">
                     <!-- Slides -->
                     <div class="swiper-slide">
-                        <a href="janhome-ha-noi-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Hà Nội">
+                        <a href="javascript:void(0)" title="Hà Nội">
                             <i class="fas fa-map-marker-alt mr-2"></i>Hà Nội
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-bac-giang-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Bắc Giang">
+                        <a href="javascript:void(0)" title="Bắc Giang">
                             <i class="fas fa-map-marker-alt mr-2"></i>Bắc Giang
                         </a>
                     </div>
@@ -21,7 +21,7 @@
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-cao-bang.html" title="Cao Bằng">
+                        <a href="javascript:void(0)" title="Cao Bằng">
                             <i class="fas fa-map-marker-alt mr-2"></i>Cao Bằng
                         </a>
                     </div>
@@ -31,12 +31,12 @@
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-dak-lak.html" title="Đắk Lắk">
+                        <a href="javascript:void(0)" title="Đắk Lắk">
                             <i class="fas fa-map-marker-alt mr-2"></i>Đắk Lắk
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-dien-bien-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Điện Biên">
+                        <a href="javascript:void(0)" title="Điện Biên">
                             <i class="fas fa-map-marker-alt mr-2"></i>Điện Biên
                         </a>
                     </div>
@@ -46,37 +46,37 @@
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-ha-tinh-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Hà Tĩnh">
+                        <a href="javascript:void(0)" title="Hà Tĩnh">
                             <i class="fas fa-map-marker-alt mr-2"></i>Hà Tĩnh
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-hai-duong.html" title="Hải Dương">
+                        <a href="javascript:void(0)" title="Hải Dương">
                             <i class="fas fa-map-marker-alt mr-2"></i>Hải Dương
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-hai-phong-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Hải Phòng">
+                        <a href="javascript:void(0)" title="Hải Phòng">
                             <i class="fas fa-map-marker-alt mr-2"></i>Hải Phòng
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-ho-chi-minh.html" title="Hồ Chí Minh">
+                        <a href="javascript:void(0)" title="Hồ Chí Minh">
                             <i class="fas fa-map-marker-alt mr-2"></i>Hồ Chí Minh
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-hoa-binh-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Hòa Bình">
+                        <a href="javascript:void(0)" title="Hòa Bình">
                             <i class="fas fa-map-marker-alt mr-2"></i>Hòa Bình
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-hung-yen-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Hưng Yên">
+                        <a href="javascript:void(0)" title="Hưng Yên">
                             <i class="fas fa-map-marker-alt mr-2"></i>Hưng Yên
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-nghe-an-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Nghệ An">
+                        <a href="javascript:void(0)" title="Nghệ An">
                             <i class="fas fa-map-marker-alt mr-2"></i>Nghệ An
                         </a>
                     </div>
@@ -86,47 +86,47 @@
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-phu-tho.html" title="Phú Thọ">
+                        <a href="javascript:void(0)" title="Phú Thọ">
                             <i class="fas fa-map-marker-alt mr-2"></i>Phú Thọ
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-quang-binh.html" title="Quảng Bình">
+                        <a href="javascript:void(0)" title="Quảng Bình">
                             <i class="fas fa-map-marker-alt mr-2"></i>Quảng Bình
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho-janhome-tp-ha-long-tai-quang-ninh.html" title="Quảng Ninh">
+                        <a href="javascript:void(0)" title="Quảng Ninh">
                             <i class="fas fa-map-marker-alt mr-2"></i>Quảng Ninh
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-son-la-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Sơn La">
+                        <a href="javascript:void(0)" title="Sơn La">
                             <i class="fas fa-map-marker-alt mr-2"></i>Sơn La
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-thai-binh-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Thái Bình">
+                        <a href="javascript:void(0)" title="Thái Bình">
                             <i class="fas fa-map-marker-alt mr-2"></i>Thái Bình
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-thai-nguyen-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Thái Nguyên">
+                        <a href="javascript:void(0)" title="Thái Nguyên">
                             <i class="fas fa-map-marker-alt mr-2"></i>Thái Nguyên
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-thanh-hoa-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Thanh hoá">
+                        <a href="javascript:void(0)" title="Thanh hoá">
                             <i class="fas fa-map-marker-alt mr-2"></i>Thanh hoá
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-tuyen-quang-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Tuyên Quang">
+                        <a href="javascript:void(0)" title="Tuyên Quang">
                             <i class="fas fa-map-marker-alt mr-2"></i>Tuyên Quang
                         </a>
                     </div>
                     <div class="swiper-slide">
-                        <a href="janhome-vinh-phuc-he-thong-ban-le-san-go-vat-lieu-hoan-thien-tai-kho.html" title="Vĩnh Phúc">
+                        <a href="javascript:void(0)" title="Vĩnh Phúc">
                             <i class="fas fa-map-marker-alt mr-2"></i>Vĩnh Phúc
                         </a>
                     </div>
@@ -145,14 +145,14 @@
                     class="img-fluid" />
                 </a>
                 <a class="navbar-brand d-md-none" href="index.html" title="">
-                    <img src="images/logo_mobile_2e209.png?v=1.0.0" alt="" class="img-fluid" />
+                    <img  src="{!!asset('images/logo_mobile_2e209.png?v=1.0.0')!!}" alt="" class="img-fluid" />
                 </a>
                 <div class="d-md-none">
                     <div class="input-group form-search flex-nowrap mr-2 width-mb" style="width: 210px;">
                         <input type="text" class="form-control find-product " placeholder="Tìm sản phẩm....">
                         <div class="input-group-append">
                             <button class="btn btn-search es-search-button">
-                            <img src="images/searche209.svg?v=1.0.0" class="img-fluid" />
+                            <img  src="{!!asset('images/searche209.svg?v=1.0.0')!!}" class="img-fluid" />
                             </button>
                         </div>
                         <div class="suggest-text suggest-text-1">
@@ -188,7 +188,7 @@
                 <div class="nav-item align-self-md-center mb-0 cart d-md-none">
                     <button class="btn p-0 dropdown-cart-trigger-mobile" @*onclick="$('.cart-mobile').toggle(100, 'swing');" *@>
                     <div class="icon ">
-                        <img src="images/cart-icone209.svg?v=1.0.0" class="img-fluid mr-2 icon-nav" />
+                        <img src="{!!asset('images/cart-icone209.svg?v=1.0.0')!!}" class="img-fluid mr-2 icon-nav" />
                         <div id="cart-count-mobile" class="amount">
                         </div>
                     </div>
@@ -227,7 +227,7 @@
                                 <input type="text" class="form-control find-product" placeholder="Tìm sản phẩm....">
                                 <div class="input-group-append es-search-button">
                                     <button class="btn btn-search">
-                                    <img src="images/searche209.svg?v=1.0.0" class="img-fluid" />
+                                    <img  src="{!!asset('images/searche209.svg?v=1.0.0')!!}" class="img-fluid" />
                                     </button>
                                 </div>
                                 <div class="suggest-text suggest-text-1">
@@ -262,7 +262,7 @@
                         <li class="nav-item dropdown mr-md-3 align-self-md-center   mb-md-0 cart">
                             <a rel="nofollow" class="d-flex dropdown-cart-trigger" href="javascript:void(0)">
                                 <div class="icon mr-2">
-                                    <img src="images/cart-icone209.svg?v=1.0.0" class="img-fluid mr-2 icon-nav" />
+                                    <img src="{!!asset('images/cart-icone209.svg?v=1.0.0')!!}" class="img-fluid mr-2 icon-nav" />
                                     <div class="amount" id="cart-count">
                                     </div>
                                 </div>
@@ -312,16 +312,16 @@
                                 <a rel="nofollow" class="btn dropdown-toggle p-0" href="#" role="button"
                                     id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
                                     aria-expanded="false">
-                                    <img src="images/vietname209.svg?v=1.0.0" class="img-fluid " />
+                                    <img src="{!!asset('images/vietname209.svg?v=1.0.0')!!}" class="img-fluid " />
                                 </a>
                                 <div class="dropdown-menu dropdown-menu-right"
                                     aria-labelledby="dropdownMenuLink">
                                     <a rel="nofollow" class="dropdown-item select-language" href="javascript:void(0)" data-lang="vi-VN">
-                                        <img src="images/vietname209.svg?v=1.0.0" class="img-fluid mr-1" />
+                                        <img src="{!!asset('images/vietname209.svg?v=1.0.0')!!}" class="img-fluid mr-1" />
                                         <span>Tiếng Việt</span>
                                     </a>
                                     <a rel="nofollow" class="dropdown-item select-language" href="javascript:void(0)" data-lang="en-US">
-                                        <img src="images/226-united-statese209.svg?v=1.0.0" class="img-fluid mr-1" />
+                                        <img src="{!!asset('images/226-united-statese209.svg?v=1.0.0')!!}" class="img-fluid mr-1" />
                                         <span>English</span>
                                     </a>
                                 </div>
@@ -345,20 +345,20 @@
                             <div class="menu-ngang d-flex justify-content-between small">
                                 <div>
                                     <a rel="nofollow" href="javascrip:;" class="btn-sm btn-link last-seen-link">
-                                        <img src="images/spvx-ice209.svg?v=1.0.0" class="img-fluid icon mr-2" />Sản phẩm vừa
+                                        <img  src="{!!asset('images/spvx-ice209.svg?v=1.0.0')!!}" class="img-fluid icon mr-2" />Sản phẩm vừa
                                         xem
                                     </a>
                                 </div>
                                 <div>
-                                    <a href="chi-nhanh.html" class="btn-sm btn-link">
-                                        <img src="images/location-icn.svg" class="img-fluid icon mr-2" />Hệ thống
+                                    <a href="javascript:void(0)" class="btn-sm btn-link">
+                                        <img  src="{!!asset('images/location-icn.svg')!!}"  class="img-fluid icon mr-2" />Hệ thống
                                         <span class="px-1 font-weight-bold" style="color:#007DFF;">38</span>
                                         Showroom
                                     </a>
                                 </div>
                                 <div>
                                     <a rel="nofollow" href="javascript:void(0)" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="btn-sm btn-link">
-                                        <img src="images/spvx-ic3.svg" class="img-fluid icon mr-2" />Tải
+                                        <img  src="{!!asset('images/spvx-ic3.svg?v=1.0.0')!!}"  class="img-fluid icon mr-2" />Tải
                                         Catalogue
                                     </a>
                                     <div class="dropdown-menu cust-downl-cate" aria-labelledby="dropdownMenuButton">
@@ -369,13 +369,13 @@
                                 <div>
                                     <a href="#" rel="nofollow" class="btn-sm btn-link _btn-lien-he-bh" data-toggle="modal"
                                         data-target="#modal-lien-he">
-                                        <img src="images/spvx-ic4e209.svg?v=1.0.0" class="img-fluid icon mr-2" />Liên hệ bảo
+                                        <img  src="{!!asset('images/spvx-ic4e209.svg?v=1.0.0')!!}" class="img-fluid icon mr-2" />Liên hệ bảo
                                         hành
                                     </a>
                                 </div>
                                 <div>
-                                    <a href="du-toan-cong-trinh.html" class="btn-sm btn-link">
-                                        <img src="images/spvx-ic5e209.svg?v=1.0.0" class="img-fluid icon mr-2" />Dự toán công
+                                    <a href="javascript:void(0)" class="btn-sm btn-link">
+                                        <img  src="{!!asset('images/spvx-ic5e209.svg?v=1.0.0')!!}" class="img-fluid icon mr-2" />Dự toán công
                                         trình
                                     </a>
                                 </div>
@@ -385,12 +385,12 @@
                             <ul class="list-group list-menu-cate d-none d-md-block un-expand   " style="">
                                 <li class="list-group-item active ">
                                     <a rel="nofollow" href="javascript:;" class="link">
-                                        <img src="images/listView.svg" class="img-fluid mr-2" />Danh mục
+                                        <img  src="{!!asset('images/listView.svg')!!}" class="img-fluid mr-2" />Danh mục
                                     </a>
                                 </li>
                                 <li class="list-group-item">
                                     <a href="san-go-cong-nghiep.html" class="link" title="Sàn gỗ công nghiệp">
-                                        <img src="../cms.janhome.vn/uploads/2020/09/07/gocongnghiepe209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/09/07/gocongnghiepe209.png?v=1.0.0')!!}"
                                         class="img-fluid mr-2" alt="Sàn gỗ công nghiệp" />Sàn gỗ công nghiệp
                                     </a>
                                     <div class="subcate">
@@ -401,7 +401,7 @@
                                 </li>
                                 <li class="list-group-item">
                                     <a href="san-go-tu-nhien.html" class="link" title="Sàn gỗ tự nhiên">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/gotunhiene209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/gotunhiene209.png?v=1.0.0')!!}"
                                         class="img-fluid mr-2" alt="Sàn gỗ tự nhiên" />Sàn gỗ tự nhiên
                                     </a>
                                     <div class="subcate">
@@ -412,7 +412,7 @@
                                 </li>
                                 <li class="list-group-item">
                                     <a href="san-nhua.html" class="link" title="Sàn nhựa vinyl">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/sannhuae209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/sannhuae209.png?v=1.0.0')!!}"
                                         class="img-fluid mr-2" alt="Sàn nhựa vinyl" />Sàn nhựa vinyl
                                     </a>
                                     <div class="subcate">
@@ -423,7 +423,7 @@
                                 </li>
                                 <li class="list-group-item">
                                     <a href="san-go-ngoai-troi.html" class="link" title="Sàn gỗ ngoài trời">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/Go%20Ngoai%20troie209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/Go%20Ngoai%20troie209.png?v=1.0.0')!!}"
                                         class="img-fluid mr-2" alt="Sàn gỗ ngoài trời" />Sàn gỗ ngoài trời
                                     </a>
                                     <div class="subcate">
@@ -434,7 +434,7 @@
                                 </li>
                                 <li class="list-group-item">
                                     <a href="phu-kien.html" class="link" title="Phụ kiện">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/cleane209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/cleane209.png?v=1.0.0')!!}"
                                         class="img-fluid mr-2" alt="Phụ kiện" />Phụ kiện
                                     </a>
                                     <div class="subcate">
@@ -445,7 +445,7 @@
                                 </li>
                                 <li class="list-group-item">
                                     <a href="san-go-thanh-ly.html" class="link" title="Sàn gỗ thanh lý">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/gocongnghiepe209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/gocongnghiepe209.png?v=1.0.0')!!}"
                                         class="img-fluid mr-2" alt="Sàn gỗ thanh lý" />Sàn gỗ thanh lý
                                     </a>
                                     <div class="subcate">
@@ -456,7 +456,7 @@
                                 </li>
                                 <li class="list-group-item">
                                     <a href="trang-tri-noi-that.html" class="link" title="Trang trí nội thất">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/bede209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/bede209.png?v=1.0.0')!!}"
                                         class="img-fluid mr-2" alt="Trang trí nội thất" />Trang trí nội thất
                                     </a>
                                     <div class="subcate">
@@ -467,7 +467,7 @@
                                 </li>
                                 <li class="list-group-item">
                                     <a href="trang-tri-ngoai-that.html" class="link" title="Trang trí ngoại thất">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/homee209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/homee209.png?v=1.0.0')!!}"
                                         class="img-fluid mr-2" alt="Trang trí ngoại thất" />Trang trí ngoại thất
                                     </a>
                                     <div class="subcate">
@@ -478,7 +478,7 @@
                                 </li>
                                 <li class="list-group-item">
                                     <a href="do-gia-dung.html" class="link" title="Đồ gia dụng">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/cleane209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/cleane209.png?v=1.0.0')!!}"
                                         class="img-fluid mr-2" alt="Đồ gia dụng" />Đồ gia dụng
                                     </a>
                                     <div class="subcate">
@@ -489,7 +489,7 @@
                                 </li>
                                 <li class="list-group-item">
                                     <a href="san-tre.html" class="link" title="Sàn tre">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/sannhuae209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/sannhuae209.png?v=1.0.0')!!}"
                                         class="img-fluid mr-2" alt="Sàn tre" />Sàn tre
                                     </a>
                                     <div class="subcate">
@@ -506,7 +506,7 @@
                             <ul class="row menu-cate-mobile  d-md-none no-gutters">
                                 <div class="col-3 px-1">
                                     <a href="san-go-cong-nghiep.html" class="btn btn-cate">
-                                        <img src="../cms.janhome.vn/uploads/2020/09/07/gocongnghiepe209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/09/07/gocongnghiepe209.png?v=1.0.0')!!}"
                                         class="img-fluid mb-2" />
                                         <div>
                                             Sàn gỗ công nghiệp
@@ -515,7 +515,7 @@
                                 </div>
                                 <div class="col-3 px-1">
                                     <a href="san-go-tu-nhien.html" class="btn btn-cate">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/gotunhiene209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/gotunhiene209.png?v=1.0.0')!!}"
                                         class="img-fluid mb-2" />
                                         <div>
                                             Sàn gỗ tự nhiên
@@ -524,7 +524,7 @@
                                 </div>
                                 <div class="col-3 px-1">
                                     <a href="san-nhua.html" class="btn btn-cate">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/sannhuae209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/sannhuae209.png?v=1.0.0')!!}"
                                         class="img-fluid mb-2" />
                                         <div>
                                             Sàn nhựa vinyl
@@ -533,7 +533,7 @@
                                 </div>
                                 <div class="col-3 px-1">
                                     <a href="san-go-ngoai-troi.html" class="btn btn-cate">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/Go%20Ngoai%20troie209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/Go%20Ngoai%20troie209.png?v=1.0.0')!!}"
                                         class="img-fluid mb-2" />
                                         <div>
                                             Sàn gỗ ngoài trời
@@ -542,7 +542,7 @@
                                 </div>
                                 <div class="col-3 px-1">
                                     <a href="phu-kien.html" class="btn btn-cate">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/cleane209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/cleane209.png?v=1.0.0')!!}"
                                         class="img-fluid mb-2" />
                                         <div>
                                             Phụ kiện
@@ -551,7 +551,7 @@
                                 </div>
                                 <div class="col-3 px-1">
                                     <a href="san-go-thanh-ly.html" class="btn btn-cate">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/gocongnghiepe209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/gocongnghiepe209.png?v=1.0.0')!!}"
                                         class="img-fluid mb-2" />
                                         <div>
                                             Sàn gỗ thanh lý
@@ -560,7 +560,7 @@
                                 </div>
                                 <div class="col-3 px-1">
                                     <a href="trang-tri-noi-that.html" class="btn btn-cate">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/bede209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/bede209.png?v=1.0.0')!!}"
                                         class="img-fluid mb-2" />
                                         <div>
                                             Trang trí nội thất
@@ -569,7 +569,7 @@
                                 </div>
                                 <div class="col-3 px-1">
                                     <a href="trang-tri-ngoai-that.html" class="btn btn-cate">
-                                        <img src="../cms.janhome.vn/uploads/2020/05/21/homee209.png?v=1.0.0"
+                                        <img src="{!!asset('cms.janhome.vn/uploads/2020/05/21/homee209.png?v=1.0.0')!!}"
                                         class="img-fluid mb-2" />
                                         <div>
                                             Trang trí ngoại thất
