@@ -260,7 +260,7 @@
                             </div>
                         </li>
                         <li class="nav-item dropdown mr-md-3 align-self-md-center   mb-md-0 cart">
-                            <a rel="nofollow" class="d-flex dropdown-cart-trigger" href="javascript:void(0)">
+                            <a rel="nofollow" class="d-flex dropdown-cart-trigger" href="{{route('home.checkout_order')}}">
                                 <div class="icon mr-2">
                                     <img src="{!!asset('images/cart-icone209.svg?v=1.0.0')!!}" class="img-fluid mr-2 icon-nav" />
                                     <div class="amount" id="cart-count">
@@ -284,7 +284,7 @@
                                     </div>
                                     <div class="h6 ml-auto">
                                         <a href="gio-hang.html" id="link-target-cart" class="btn-link link-view-more text-uppercase">XEM GIỎ HÀNG</a><br />
-                                        <a rel="nofollow" href="javascript:void(0)" id="link-clear-cart" class="btn-link link-view-more text-uppercase"><small>Xóa giỏ hàng</small></a><br />
+                                        <a rel="nofollow" href="{{route('home.checkout_order')}}"  id="link-clear-cart" class="btn-link link-view-more text-uppercase"><small>Xóa giỏ hàng</small></a><br />
                                     </div>
                                 </div>
                             </div>

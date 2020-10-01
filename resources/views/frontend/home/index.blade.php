@@ -307,7 +307,7 @@
                                             </div>
                                         </li>
                                         <li class="nav-item dropdown mr-md-3 align-self-md-center   mb-md-0 cart">
-                                            <a rel="nofollow" class="d-flex dropdown-cart-trigger" href="javascript:void(0)">
+                                            <a rel="nofollow" class="d-flex dropdown-cart-trigger" href="{{route('home.checkout_order')}}">
                                                 <div class="icon mr-2">
                                                     <img src="images/cart-icone209.svg?v=1.0.0" class="img-fluid mr-2 icon-nav" />
                                                     <div class="amount" id="cart-count">
@@ -1002,20 +1002,31 @@
                                                         </div>
                                                     </div>
                                                     <div class="">
-                                                        <h5 class="title">
+                                                        <h5 class="title">  
                                                         <a href="{!! route('product.detail', ['alias' => $product->alias, 'id' => $product->id]) !!}" title="Sàn gỗ WOODMAN O127">
                                                             {!!$product->title!!}
                                                         </a>
                                                         </h5>
                                                         <div class="price-new">
-                                                            250.000đ đ / m2
+                                                            @if($product->sale_price==0)
+                                                            <?php echo($product->price)?>
+                                                            @else
+                                                            <?php echo($product->sale_price)?>
+                                                            @endif 
+                                                            đ/ m2
                                                         </div>
                                                         <div class="price-old">
-                                                            315.000đđ
+                                                            @if($product->sale_price!=0)
+                                                            <?php echo($product->price .' đ/ m2')?>
+                                                            @else
+                                                            <?php echo('')?>
+                                                            @endif
                                                         </div>
+                                                        @foreach($product->attributes as $key =>$attributes)
                                                         <div class="size small mb-1">
-                                                            Kích thước: 8    x    193    x    1283 mm
+                                                            Kích thước: {!!$attributes->title!!} mm
                                                         </div>
+                                                        @endforeach
                                                         <div class="review d-flex">
                                                             <div class="color-FFAB1B mr-2">
                                                                 4,0/5<i class="fas fa-star ml-1"></i>

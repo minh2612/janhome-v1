@@ -160,6 +160,7 @@ QQ18 Ba Vì, Cư xá Bắc Hải, Phường 15, Quận 10, Hồ Chí Minh
 <script type="text/javascript" src="{!!asset('js/controller/extraControllere209.js?v=1.0.0')!!}"></script>
 <script type="text/javascript" src="{!!asset('js/libs/yall-js/dist/yall.mine209.js?v=1.0.0')!!}"></script>
 <script type="text/javascript" src="{!!asset('js/libs/jquery.lazy-master/jquery.lazye209.js?v=1.0.0')!!}"></script>
+<script type="text/javascript" src="{!!asset('js/controller/orderController656b.js?v=xvJOuv461PL712KfIecqpKZraw63_wXcs-Gpk6RoFSU')!!}"></script>
 <script type="text/javascript" src="{!!asset('js/momentJS8d01.js?v=8rj4CnOaFIZlLaVMN4pprckx3lvc1KfRhGuM0MtspBg')!!}"></script>
 <script type="text/javascript" src="{!!asset('js/daterangepicker8d85.js?v=iOVs1FytPbiP3HcnhtFMzo0MwYebwD5OVr6Rnf2a0ik')!!}"></script>
 <script type="text/javascript" src="{!!asset('js/paginationJS270f.js?v=_GywrNV0fMW9l0mnOa6Gz8zbqp7_d5F3yBpGH6xQmEM')!!}"></script>

@@ -9,12 +9,14 @@ use Repositories\ConstructionRepository;
 use Repositories\KeywordRepository;
 use App\Repositories\ProductRepository;
 use Repositories\NewsRepository;
+use App\Repositories\ProductAttributeRepository;
 
 class FrontendController extends Controller {
 
-    public function __construct(ProductRepository $productRepo, NewsRepository $newsRepo) {
+    public function __construct(ProductRepository $productRepo, NewsRepository $newsRepo, ProductAttributeRepository $productAttributeRepo) {
         $this->productRepo = $productRepo;
         $this->newsRepo = $newsRepo;
+        $this->productAttributeRepo = $productAttributeRepo;
     }
     public function index() {
         //cart

@@ -189,7 +189,20 @@
                             </div>
                             <div class="price-product-detail">
                                 <span class="new" id="price-sale">
-                                    <span id="price-sale-detail" data-sale-price="198000">198.000đ</span> <span>đ/m2</span>
+                                    <span id="price-sale-detail">
+                                        @if($product->sale_price==0)
+                                        <?php echo($product->price)?>
+                                        @else
+                                        <?php echo($product->sale_price)?>
+                                        @endif 
+                                    </span> <span>đ/m2</span>
+                                </span>
+                                <span class="old" id="price-normal">
+                                        @if($product->sale_price!=0)
+                                        <?php echo($product->price .' đ/ m2')?>
+                                        @else
+                                        <?php echo('')?>
+                                        @endif
                                 </span>
                                 <span class="tag"></span>
                             </div>
@@ -477,6 +490,7 @@
                         </div>
                         <div class="content">
                             {{$product->description}}
+                            {!!$product->content!!}
                         </div>
                     </div>
                     <div class="text-center my-4">
