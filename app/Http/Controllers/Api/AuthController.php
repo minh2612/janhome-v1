@@ -64,7 +64,9 @@ class AuthController extends Controller {
         ]);
     }
 
-    public function logoutConstruction() {
+   
+
+    public function logoutConstruction(){
         session_start();
         unset($_SESSION);
         session_destroy();

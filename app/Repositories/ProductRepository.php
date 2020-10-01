@@ -110,9 +110,9 @@ class ProductRepository extends AbstractRepository {
         return $this->model->where('status', 1)->get();
     }
 
-    public function getDetailProduct($id) {
+    public function getDetailProduct($alias) {
 
-        return $this->model->where('id', $id)->get();
+        return $this->model->where('alias', $alias)->get();
 
     }
 

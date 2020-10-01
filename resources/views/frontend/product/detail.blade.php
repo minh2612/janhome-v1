@@ -1,7 +1,7 @@
 @extends('frontend.layouts.master')
 @section('content')
 <body>
-    @foreach($detail_products as $detail_product )
+    @foreach($detail_products as $key => $product )
     <div class="container my-3">
         
         <ol style="display:none" itemscope itemtype="https://schema.org/BreadcrumbList">
@@ -47,7 +47,7 @@
         <div class="container">
             <div class="row mb-3">
                 <div class="col-lg-9 col-md-9 col-12 align-self-center">
-                    <h1 class="title mb-3 mb-lg-0 d-inline-block mr-4 ">{{$detail_product->title}}</h1>
+                    <h1 class="title mb-3 mb-lg-0 d-inline-block mr-4 ">{{$product->title}}</h1>
                     <div class="small d-inline-block p-2 ">
                         <div class="star-rating d-inline-block  text-center mb-3" data-id="44575" data-rate-type="1">
                             
@@ -74,7 +74,7 @@
                             <div class="slide-product-detail mb-4">
                                 <div class="swiper-container gallery-top">
                                     <div class="swiper-wrapper">
-                                        @foreach(explode(',', $detail_product->images) as $key => $dowloadfile)
+                                        @foreach(explode(',', $product->images) as $key => $dowloadfile)
                                         <div class="swiper-slide">
 
                                             <div class="img-magnifier-container">
@@ -106,7 +106,7 @@
                                 </div>
                                 <div class="swiper-container gallery-thumbs px-3">
                                     <div class="swiper-wrapper">
-                                        @foreach(explode(',', $detail_product->images) as $key => $dowloadfile)
+                                        @foreach(explode(',', $product->images) as $key => $dowloadfile)
                                         <div class="swiper-slide">
                                             <div class="image">
                                                 <img src="{{$dowloadfile}}" class="img-fluid w-100 " alt="Sàn gỗ Florton FL669-1" />
@@ -476,7 +476,7 @@
                             Mô tả sản phẩm
                         </div>
                         <div class="content">
-                            {{$detail_product->description}}
+                            {{$product->description}}
                         </div>
                     </div>
                     <div class="text-center my-4">

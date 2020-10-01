@@ -53,8 +53,8 @@ class NewsController extends Controller {
     //     }
     // }
 
-    public function detail(Request $alias,$id) {
-        $detail_news=  $this->newsRepo->getDetailNews($id);
+    public function detail(Request $request,$alias) {
+        $detail_news=  $this->newsRepo->getDetailNews($alias);
         return view('frontend/news/detail',compact('detail_news'));
     }      
 

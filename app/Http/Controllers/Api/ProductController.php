@@ -36,7 +36,7 @@ class ProductController extends Controller {
                 ]
             ];
             session()->put('cart', $cart);
-
+             
             foreach (session('cart') as $val) {
                 $count += $val['quantity'];
                 $total += ($val['price'] * $val['quantity']);

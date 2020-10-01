@@ -996,7 +996,7 @@
                                                     <div class="tag-1">
                                                     </div>
                                                     <div class="image">
-                                                        <a href="san-go-woodman-o127.html"><img src="{{$product->getImage()}}" class="img-fluid lazy" alt="Sàn gỗ WOODMAN O127" /></a>
+                                                        <a href="{!! route('product.detail', ['alias' => $product->alias, 'id' => $product->id]) !!}"><img src="{{$product->getImage()}}" class="img-fluid lazy" alt="Sàn gỗ WOODMAN O127" /></a>
                                                         <div class="tag-2">
                                                             <img src="" class="img-fluid tag-2-thumb" />
                                                         </div>
@@ -3131,10 +3131,10 @@ Xem thêm <i class="fas fa-chevron-right ml-1 small"></i>
 @break
 @endif
 <div class="item">
-<a href="4-dieu-ban-nhat-dinh-phai-biet-truoc-khi-chon-mua-san-go-cong-nghiep-cho-gia-dinh.html">
+<a href="{!! route('news.detail', ['alias' => $news->alias]) !!}" >
     <img src="{{$news->getImage()}}" data-src="https://cms.janhome.vn//uploads/2020/08/17/4-dieu-ban-can-biet-truoc-khi-lua-chon-san-go-cong-nghiep-cho-gia-dinh.jpg?v=1.0.0" alt="4 điều bạn nhất định phải biết trước khi chọn mua sàn gỗ công nghiệp cho gia đình" class="img-fluid lazy" width="100%" height="auto" />
 </a>
-<a href="{!! route('news.detail', ['alias' => $news->alias, 'id' => $news->id]) !!}" title="4 điều bạn nhất định phải biết trước khi chọn mua sàn gỗ công nghiệp cho gia đình" class="">
+<a href="{!! route('news.detail', ['alias' => $news->alias]) !!}" title="4 điều bạn nhất định phải biết trước khi chọn mua sàn gỗ công nghiệp cho gia đình" class="">
     <h6 class="title h5 mt-3 ">
     {!!$news->title!!}
     </h6>
@@ -3163,14 +3163,14 @@ Xem thêm <i class="fas fa-chevron-right ml-1 small"></i>
     <div class="row" style="margin-bottom: 20px">
         <div class="col-xl-3 col-md-4 col-sm-3 col-3">
             <div class="image">
-                <a href="khuyen-mai-thang-8-nhieu-bat-ngo-tai-janhome-he-thong-ban-le-vat-lieu-hoan-thien-tai-kho.html" title="Khuyến mãi tháng 8 nhiều bất ngờ tại JanHome, hệ thống bán lẻ vật liệu hoàn thiện tại kho.">
+                <a href="{!! route('news.detail', ['alias' => $news->alias]) !!}" >
                     <img src="{{$news->getImage()}}" data-src="https://cms.janhome.vn//uploads/thumb/2020/08/03/khuyen-mai-thang-8-2020-janhome.jpg?v=1.0.0" class="img-fluid lazy" alt="Khuyến mãi tháng 8 nhiều bất ngờ tại JanHome, hệ thống bán lẻ vật liệu hoàn thiện tại kho." />
                 </a>
             </div>
         </div>
         <div class="col-xl-9 col-md-8 col-sm-9 col-9 pl-0">
             <h6 class="title">
-            <a href="{!! route('news.detail', ['alias' => $news->alias, 'id' => $news->id]) !!}" title="Khuyến mãi tháng 8 nhiều bất ngờ tại JanHome, hệ thống bán lẻ vật liệu hoàn thiện tại kho.">{!!$news->title!!}</a>
+            <a href="{!! route('news.detail', ['alias' => $news->alias]) !!}" title="Khuyến mãi tháng 8 nhiều bất ngờ tại JanHome, hệ thống bán lẻ vật liệu hoàn thiện tại kho.">{!!$news->title!!}</a>
             </h6>
             <div class="time">
                 03/08/2020 05:29

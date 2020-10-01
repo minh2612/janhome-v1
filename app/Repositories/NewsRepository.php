@@ -68,9 +68,9 @@ class NewsRepository extends AbstractRepository {
      public function getConfig($id) {
         return $this->model->select('title', 'description','keywords', 'meta_title', 'meta_keywords', 'meta_description')->where('id', $id)->first();
     }
-    public function getDetailNews($id) {
+    public function getDetailNews($alias) {
 
-        return $this->model->where('id', $id)->get();
+        return $this->model->where('alias', $alias)->get();
 
     }
 

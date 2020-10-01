@@ -92,8 +92,8 @@ class ProductController extends Controller {
         $product_all = $this->productRepo->getFilterProduct($genre1);  
         return view('frontend/product/all',compact('hot_products_slide','product_all','platform_category','os_category','genre_category'));
     }
-    public function detail(Request $request,$alias,$id) {
-            $detail_products=  $this->productRepo->getDetailProduct($id);
+    public function detail(Request $request,$alias) {
+            $detail_products=  $this->productRepo->getDetailProduct($alias);
             return view('frontend/product/detail',compact('detail_products'));
         }      
 
